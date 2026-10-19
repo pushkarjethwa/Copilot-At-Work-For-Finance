@@ -1,0 +1,24 @@
+SYNTHETIC TRAINING DATA — NOT REAL BANK POLICY
+Customer Onboarding Policy — Approved Version 2.0
+Status: Approved | Approved: 26 Aug 2026 | Effective: 01 Sep 2026 | Owner: Head of Retail Operations
+
+Purpose and authority
+This policy sets the operating standard for opening fictional retail customer accounts at Crescent Bay Bank. It governs applications whose complete-documentation date falls on or after 01 Sep 2026. Employees must use this approved version when explaining processing targets internally. The superseded 2025 policy, working drafts and customer FAQ drafts are not sources of current authority.
+
+Scope and responsible teams
+The requirements apply to retail onboarding received through branch, relationship-manager and digital channels. Front-line staff collect information and confirm whether the file is complete. Operations staff check the file and record progress. Enhanced-review cases are directed to the authorised review team. Only designated approvers may confirm application outcomes or release policy changes.
+
+Definitions and service targets
+A complete-documentation date is the date on which all required information is recorded as received and adequate for processing. That date is day zero. A business day means Monday through Friday; public holidays are not additionally excluded in this synthetic exercise. Standard cases have a target of three business days after day zero. Enhanced-review cases have a target of seven business days. A target is a service measure, not an approval commitment or a guarantee that all files will finish within the target.
+
+Documentation and records
+Staff must capture the required identification and contact evidence through the bank's approved secure channel. Record the received date, complete-documentation date, review type, processing status and completion date separately. If a supporting item is missing or cannot be verified, mark the record for investigation and ask the appropriate operations owner to resolve it. Do not replace missing evidence with a guessed date or mark an incomplete file as complete merely to meet a target.
+
+Communication guardrails
+External messages may acknowledge receipt, provide an appropriate status update and explain how a customer can obtain help. They must not promise approval within two days or any other guaranteed period. Do not share identity evidence, full customer identifiers, internal risk flags, reviewer notes or restricted case history. Public statements based on a draft FAQ must be reviewed against this policy before release.
+
+Exceptions and escalation
+A case beyond the applicable target requires an internal status check and referral to the responsible operations team. An overdue application must remain open until its authorised disposition is recorded; delay alone is not a reason to close it. Escalations should identify the case reference through approved internal systems, the missing or disputed evidence, current owner and next action, without making an unsupported customer commitment.
+
+Governance and version history
+The Head of Retail Operations approved Version 2.0 on 26 Aug 2026, effective 01 Sep 2026. It replaces the four-business-day standard target in the earlier version for eligible cases. Operations maintains the controlled source and logs proposed amendments separately. Draft changes require explicit approval before operational or customer use.

@@ -1,0 +1,24 @@
+SYNTHETIC TRAINING DATA — NOT REAL BANK POLICY
+Customer Onboarding Policy — Historical Version 1.0
+Status: Superseded for applicable cases from 01 Sep 2026 | Owner: Retail Operations
+
+Historical use and scope
+This archived policy describes the fictional bank's onboarding arrangements before the September 2026 revision. It may be used to explain a historical decision or track changes between versions. It is not the current authority for a file with a complete-documentation date on or after 01 Sep 2026. Staff should consult the later approved policy before drafting current guidance.
+
+Purpose
+The earlier policy sought to establish consistent handling of new retail account applications, from initial receipt to final processing. It covered branch and remote submissions and required an operations reviewer to maintain a clear record of information received. Responsibility for final acceptance remained with authorised personnel, not the employee who first collected the documents.
+
+Former processing target
+The standard processing target was four business days after complete documentation was received. The day the file became complete was treated as day zero. The synthetic calendar counted Monday through Friday with no additional public-holiday adjustments. Enhanced-review matters did not have the later uniform seven-business-day target; those files were escalated for case-specific assessment and monitoring. The four-day measure was intended for operational tracking, not a promise of approval.
+
+Receiving and checking records
+A staff member collected identification and contact documents using approved secure systems, checked basic completeness and recorded the relevant dates. Where any evidence was inconsistent, the matter was referred to operations for clarification. Where a review was pending, the record should remain visible with its status, rather than disappear from a performance report. Employees were instructed to maintain notes describing requests for additional information.
+
+Customer communication
+Status messages were expected to distinguish receipt, completeness and final approval. A customer could be told that a file had entered review, but staff could not guarantee acceptance or disclose confidential screening observations. If processing exceeded the earlier target, the case was referred to the operations owner and a measured status update could be prepared for authorised release.
+
+Version transition
+Version 1.0 was superseded for applicable onboarding cases when Version 2.0 became effective on 01 Sep 2026. The revised policy established a three-business-day standard target and a seven-business-day enhanced-review target. The two versions must not be blended into a single customer message. Historical references should retain their original date and clearly identify that they are no longer current guidance.
+
+Record retention
+Archived copies remain available to authorised staff for audit trails and version comparison. The archive does not permit staff to reapply its old service target to new cases. Any question about which policy applies should be sent to the controlled-document owner.

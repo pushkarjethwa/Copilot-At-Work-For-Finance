@@ -1,0 +1,12 @@
+SYNTHETIC TRAINING DATA — NOT REAL BANK POLICY
+Graduate Associate Assignment — Onboarding Service Review
+Manager request | 05 Oct 2026
+
+Request
+Our Downtown branch appears to have more delayed applications than anywhere else. Please confirm whether it also has the worst late-processing rate.
+Review the approved operating policy, a recent customer escalation, the branch dataset and the operations meeting decisions.
+Prepare a one-page management summary and concise presentation with evidence-based recommendations.
+
+Deliverables
+Validated performance KPIs, list of unresolved evidence gaps, proposed actions with owners and deadlines, and a management communication draft.
+Do not use real customer data, infer missing facts or send external customer communications.

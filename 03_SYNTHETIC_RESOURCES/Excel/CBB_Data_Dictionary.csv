@@ -1,0 +1,16 @@
+﻿Field,Meaning,Note
+Application_ID,Fictional unique application identifier,8 intentional repeated IDs in physical source
+Branch,Fictional branch,"Downtown, Marina, Creekside, Airport"
+Channel,Submission channel,"Branch, Mobile, Web, Relationship Manager"
+Product,Synthetic product category,"Savings, Current, Payroll"
+Review_Type,Application complexity,"Standard: 3 days, Enhanced Review: 7 days"
+Received_Date,Initial contact date,Not SLA clock start
+Complete_Docs_Date,Date required documentation marked complete,SLA starts here
+Completed_Date,Date processing completed,Missing / impossible data injected
+Status,Application workflow status,Includes open cases
+SLA_Business_Days,Row-specific service target,3 or 7
+Issue_Code,Synthetic rework reason,Not a real risk flag
+Synthetic_Customer_Reference,Non-identifying synthetic reference,Not real PII
+Team,Fictional processing team,For examples
+Staff_Code,Fictional employee code,Not a person
+Data_Classification,Explicit synthetic-data label,Do not treat as actual banking data

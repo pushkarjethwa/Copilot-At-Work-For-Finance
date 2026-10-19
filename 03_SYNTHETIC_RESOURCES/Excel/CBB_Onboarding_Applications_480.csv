@@ -1,0 +1,481 @@
+﻿Application_ID,Branch,Channel,Product,Review_Type,Received_Date,Complete_Docs_Date,Completed_Date,Status,SLA_Business_Days,Issue_Code,Synthetic_Customer_Reference,Team,Staff_Code,Data_Classification
+CBB-SYN-0001,Downtown,Web,Current,Standard,2026-09-22,2026-09-23,2026-09-29,Completed,3,None,CUST-TRAIN-0001,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0002,Downtown,Relationship Manager,Savings,Standard,2026-09-16,2026-09-16,2026-09-17,Completed,3,None,CUST-TRAIN-0002,Team A,OP-008,Synthetic case for training only
+CBB-SYN-0003,Downtown,Web,Savings,Standard,2026-09-07,2026-09-07,2026-09-10,Completed,3,None,CUST-TRAIN-0003,Team B,OP-014,Synthetic case for training only
+CBB-SYN-0004,Downtown,Branch,Payroll,Standard,2026-09-16,2026-09-21,2026-09-29,Completed,3,Missing document,CUST-TRAIN-0004,Team C,OP-015,Synthetic case for training only
+CBB-SYN-0005,Downtown,Relationship Manager,Savings,Standard,2026-09-03,2026-09-04,2026-09-08,Completed,3,Missing document,CUST-TRAIN-0005,Team A,OP-002,Synthetic case for training only
+CBB-SYN-0006,Downtown,Relationship Manager,Savings,Standard,2026-09-04,2026-09-08,2026-09-09,Completed,3,None,CUST-TRAIN-0006,Team B,OP-010,Synthetic case for training only
+CBB-SYN-0006,Downtown,Web,Current,Standard,2026-09-11,2026-09-15,2026-09-18,Completed,3,Missing document,CUST-TRAIN-0007,Team C,OP-009,Synthetic case for training only
+CBB-SYN-0008,Downtown,Web,Payroll,Standard,2026-09-04,2026-09-04,2026-09-07,Completed,3,Missing document,CUST-TRAIN-0008,Team C,OP-018,Synthetic case for training only
+CBB-SYN-0009,Downtown,Relationship Manager,Payroll,Standard,2026-09-11,2026-09-16,2026-09-16,Completed,3,None,CUST-TRAIN-0009,Team C,OP-007,Synthetic case for training only
+CBB-SYN-0010,Downtown,Branch,Current,Standard,2026-09-24,2026-09-29,2026-10-02,Completed,3,None,CUST-TRAIN-0010,Team B,OP-015,Synthetic case for training only
+CBB-SYN-0011,Downtown,Web,Current,Standard,2026-09-16,2026-09-16,2026-09-21,Completed,3,Missing document,CUST-TRAIN-0011,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0012,Downtown,Web,Savings,Standard,2026-09-02,2026-09-03,,In Progress,3,None,CUST-TRAIN-0012,Team C,OP-017,Synthetic case for training only
+CBB-SYN-0013,Downtown,Mobile,Current,Standard,2026-09-21,2026-09-24,2026-10-07,Completed,3,Data entry correction,CUST-TRAIN-0013,Team B,OP-009,Synthetic case for training only
+CBB-SYN-0014,Downtown,Branch,Payroll,Standard,2026-09-01,2026-09-01,2026-09-03,Completed,3,None,CUST-TRAIN-0014,Team B,OP-011,Synthetic case for training only
+CBB-SYN-0015,Downtown,Relationship Manager,Payroll,Standard,2026-09-02,2026-09-04,2026-09-09,Completed,3,Missing document,CUST-TRAIN-0015,Team A,OP-019,Synthetic case for training only
+CBB-SYN-0016,Downtown,Mobile,Payroll,Standard,2026-09-17,2026-09-21,2026-09-30,Completed,3,Data entry correction,CUST-TRAIN-0016,Team B,OP-018,Synthetic case for training only
+CBB-SYN-0017,Downtown,Web,Payroll,Standard,2026-09-03,2026-09-04,2026-09-09,Completed,3,Missing document,CUST-TRAIN-0017,Team B,OP-015,Synthetic case for training only
+CBB-SYN-0018,Downtown,Mobile,Payroll,Enhanced Review,2026-09-15,2026-09-16,2026-09-18,Completed,7,Missing document,CUST-TRAIN-0018,Team C,OP-016,Synthetic case for training only
+CBB-SYN-0019,Downtown,Branch,Current,Enhanced Review,2026-09-01,2026-09-01,2026-09-07,Completed,7,None,CUST-TRAIN-0019,Team B,OP-006,Synthetic case for training only
+CBB-SYN-0020,Downtown,Web,Savings,Standard,2026-09-01,2026-09-03,2026-09-15,Completed,3,None,CUST-TRAIN-0020,Team A,OP-009,Synthetic case for training only
+CBB-SYN-0021,Downtown,Branch,Payroll,Standard,2026-09-09,2026-09-09,2026-09-08,Completed,3,None,CUST-TRAIN-0021,Team B,OP-015,Synthetic case for training only
+CBB-SYN-0022,Downtown,Branch,Payroll,Standard,2026-09-21,2026-09-22,2026-09-25,Completed,3,Missing document,CUST-TRAIN-0022,Team C,OP-012,Synthetic case for training only
+CBB-SYN-0023,Downtown,Relationship Manager,Payroll,Standard,2026-09-10,2026-09-11,2026-09-15,Completed,3,Missing document,CUST-TRAIN-0023,Team B,OP-015,Synthetic case for training only
+CBB-SYN-0024,Downtown,Relationship Manager,Current,Standard,2026-09-09,2026-09-10,2026-09-22,Completed,3,Missing document,CUST-TRAIN-0024,Team A,OP-020,Synthetic case for training only
+CBB-SYN-0025,Downtown,Web,Current,Standard,2026-09-02,2026-09-03,,In Progress,3,None,CUST-TRAIN-0025,Team A,OP-014,Synthetic case for training only
+CBB-SYN-0026,Downtown,Branch,Savings,Standard,2026-09-16,2026-09-18,2026-09-23,Completed,3,None,CUST-TRAIN-0026,Team C,OP-020,Synthetic case for training only
+CBB-SYN-0027,Downtown,Relationship Manager,Current,Standard,2026-09-02,2026-09-02,2026-09-03,Completed,3,None,CUST-TRAIN-0027,Team C,OP-019,Synthetic case for training only
+CBB-SYN-0028,Downtown,Mobile,Savings,Standard,2026-09-16,2026-09-16,2026-09-28,Completed,3,Address mismatch,CUST-TRAIN-0028,Team B,OP-002,Synthetic case for training only
+CBB-SYN-0029,Downtown,Relationship Manager,Payroll,Standard,2026-09-08,,2026-09-10,Completed,3,Missing document,CUST-TRAIN-0029,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0030,Downtown,Web,Current,Standard,2026-09-14,2026-09-14,2026-09-17,Completed,3,None,CUST-TRAIN-0030,Team C,OP-009,Synthetic case for training only
+CBB-SYN-0031,Downtown,Relationship Manager,Savings,Standard,2026-09-16,2026-09-21,2026-09-29,Completed,3,Missing document,CUST-TRAIN-0031,Team B,OP-006,Synthetic case for training only
+CBB-SYN-0032,Downtown,Mobile,Payroll,Standard,2026-09-08,2026-09-09,2026-09-15,Completed,3,None,CUST-TRAIN-0032,Team A,OP-007,Synthetic case for training only
+CBB-SYN-0032,Downtown,Relationship Manager,Current,Standard,2026-09-03,2026-09-07,2026-09-10,Completed,3,Missing document,CUST-TRAIN-0033,Team A,OP-013,Synthetic case for training only
+CBB-SYN-0034,Downtown,Branch,Payroll,Enhanced Review,2026-09-17,2026-09-17,2026-10-05,Completed,7,None,CUST-TRAIN-0034,Team B,OP-011,Synthetic case for training only
+CBB-SYN-0035,Downtown,Branch,Savings,Standard,2026-09-16,2026-09-17,2026-09-17,Completed,3,None,CUST-TRAIN-0035,Team C,OP-006,Synthetic case for training only
+CBB-SYN-0036,Downtown,Mobile,Savings,Standard,2026-09-09,2026-09-10,2026-09-16,Completed,3,Missing document,CUST-TRAIN-0036,Team B,OP-020,Synthetic case for training only
+CBB-SYN-0037,Downtown,Relationship Manager,Current,Standard,2026-09-07,2026-09-09,2026-09-14,Completed,3,None,CUST-TRAIN-0037,Team B,OP-009,Synthetic case for training only
+CBB-SYN-0038,Downtown,Relationship Manager,Payroll,Standard,2026-09-23,2026-09-25,2026-09-25,Completed,3,Missing document,CUST-TRAIN-0038,Team C,OP-005,Synthetic case for training only
+CBB-SYN-0039,Downtown,Mobile,Payroll,Standard,2026-09-17,2026-09-21,2026-09-24,Completed,3,None,CUST-TRAIN-0039,Team B,OP-015,Synthetic case for training only
+CBB-SYN-0040,Downtown,Branch,Current,Standard,2026-09-22,2026-09-24,2026-09-24,Completed,3,None,CUST-TRAIN-0040,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0041,Downtown,Branch,Payroll,Enhanced Review,2026-09-24,2026-09-29,2026-09-29,Completed,7,None,CUST-TRAIN-0041,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0042,Downtown,Mobile,Current,Standard,2026-09-01,2026-09-02,2026-09-04,Completed,3,None,CUST-TRAIN-0042,Team A,OP-011,Synthetic case for training only
+CBB-SYN-0043,Downtown,Web,Savings,Standard,2026-09-14,2026-09-14,2026-09-14,Completed,3,None,CUST-TRAIN-0043,Team C,OP-019,Synthetic case for training only
+CBB-SYN-0044,Downtown,Branch,Payroll,Standard,2026-09-07,2026-09-07,2026-09-09,Completed,3,Missing document,CUST-TRAIN-0044,Team B,OP-001,Synthetic case for training only
+CBB-SYN-0045,Downtown,Web,Savings,Standard,2026-09-08,2026-09-09,,Completed,3,Address mismatch,CUST-TRAIN-0045,Team B,OP-004,Synthetic case for training only
+CBB-SYN-0046,Downtown,Web,Payroll,Standard,2026-09-03,2026-09-03,2026-09-03,Completed,3,None,CUST-TRAIN-0046,Team B,OP-020,Synthetic case for training only
+CBB-SYN-0047,Downtown,Web,Payroll,Standard,2026-09-23,2026-09-23,2026-09-25,Completed,3,None,CUST-TRAIN-0047,Team A,OP-010,Synthetic case for training only
+CBB-SYN-0048,Downtown,Web,Payroll,Standard,2026-09-22,2026-09-25,2026-09-25,Completed,3,None,CUST-TRAIN-0048,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0049,Downtown,Branch,Current,Standard,2026-09-10,2026-09-14,2026-09-17,Completed,3,None,CUST-TRAIN-0049,Team B,OP-006,Synthetic case for training only
+CBB-SYN-0050,Downtown,Branch,Savings,Standard,2026-09-18,2026-09-18,2026-09-21,Completed,3,None,CUST-TRAIN-0050,Team C,OP-012,Synthetic case for training only
+CBB-SYN-0051,Downtown,Branch,Savings,Enhanced Review,2026-09-03,2026-09-08,2026-09-10,Completed,7,Missing document,CUST-TRAIN-0051,Team C,OP-002,Synthetic case for training only
+CBB-SYN-0052,Downtown,Web,Savings,Standard,2026-09-02,2026-09-02,2026-09-10,Completed,3,Data entry correction,CUST-TRAIN-0052,Team B,OP-018,Synthetic case for training only
+CBB-SYN-0053,Downtown,Relationship Manager,Payroll,Standard,2026-09-01,2026-09-03,2026-09-16,Completed,3,None,CUST-TRAIN-0053,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0054,Downtown,Relationship Manager,Current,Enhanced Review,2026-09-10,2026-09-10,2026-09-24,Completed,7,Address mismatch,CUST-TRAIN-0054,Team B,OP-015,Synthetic case for training only
+CBB-SYN-0055,Downtown,Branch,Current,Standard,2026-09-18,2026-09-18,2026-09-23,Completed,3,None,CUST-TRAIN-0055,Team C,OP-018,Synthetic case for training only
+CBB-SYN-0056,Downtown,Relationship Manager,Current,Standard,2026-09-21,2026-09-21,2026-10-02,Completed,3,Verification follow-up,CUST-TRAIN-0056,Team B,OP-014,Synthetic case for training only
+CBB-SYN-0057,Downtown,Branch,Savings,Standard,2026-09-11,2026-09-11,2026-09-23,Completed,3,Missing document,CUST-TRAIN-0057,Team C,OP-009,Synthetic case for training only
+CBB-SYN-0058,Downtown,Web,Savings,Enhanced Review,2026-09-24,2026-09-24,2026-09-29,Completed,7,None,CUST-TRAIN-0058,Team A,OP-002,Synthetic case for training only
+CBB-SYN-0059,Downtown,Relationship Manager,Savings,Standard,2026-09-03,2026-09-03,2026-09-10,Completed,3,Verification follow-up,CUST-TRAIN-0059,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0060,Downtown,Relationship Manager,Current,Standard,2026-09-04,2026-09-04,2026-09-16,Completed,3,None,CUST-TRAIN-0060,Team B,OP-020,Synthetic case for training only
+CBB-SYN-0061,Downtown,Mobile,Savings,Standard,2026-09-07,2026-09-07,2026-09-08,Completed,3,None,CUST-TRAIN-0061,Team C,OP-003,Synthetic case for training only
+CBB-SYN-0062,Downtown,Branch,Savings,Standard,2026-09-16,2026-09-21,2026-09-21,Completed,3,None,CUST-TRAIN-0062,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0062,Downtown,Mobile,Payroll,Standard,2026-09-14,2026-09-16,2026-09-16,Completed,3,None,CUST-TRAIN-0063,Team C,OP-004,Synthetic case for training only
+CBB-SYN-0064,Downtown,Branch,Current,Standard,2026-09-14,2026-09-16,2026-09-28,Completed,3,Address mismatch,CUST-TRAIN-0064,Team C,OP-003,Synthetic case for training only
+CBB-SYN-0065,Downtown,Web,Current,Standard,2026-09-18,2026-09-21,2026-09-22,Completed,3,Missing document,CUST-TRAIN-0065,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0066,Downtown,Relationship Manager,Payroll,Enhanced Review,2026-09-23,2026-09-28,2026-10-07,Completed,7,None,CUST-TRAIN-0066,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0067,Downtown,Web,Payroll,Standard,2026-09-08,2026-09-09,2026-09-22,Completed,3,Address mismatch,CUST-TRAIN-0067,Team B,OP-008,Synthetic case for training only
+CBB-SYN-0068,Downtown,Web,Current,Standard,2026-09-18,2026-09-21,2026-09-22,Completed,3,Missing document,CUST-TRAIN-0068,Team C,OP-006,Synthetic case for training only
+CBB-SYN-0069,Downtown,Web,Payroll,Standard,2026-09-24,2026-09-29,2026-10-09,Completed,3,Address mismatch,CUST-TRAIN-0069,Team B,OP-016,Synthetic case for training only
+CBB-SYN-0070,Downtown,Web,Current,Standard,2026-09-03,2026-09-07,2026-09-14,Completed,3,Data entry correction,CUST-TRAIN-0070,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0071,Downtown,Branch,Current,Enhanced Review,2026-09-21,2026-09-22,2026-09-29,Completed,7,Missing document,CUST-TRAIN-0071,Team C,OP-020,Synthetic case for training only
+CBB-SYN-0072,Downtown,Relationship Manager,Payroll,Standard,2026-09-21,2026-09-22,2026-09-24,Completed,3,None,CUST-TRAIN-0072,Team B,OP-009,Synthetic case for training only
+CBB-SYN-0073,Downtown,Relationship Manager,Payroll,Standard,2026-09-22,2026-09-23,2026-09-23,Completed,3,None,CUST-TRAIN-0073,Team A,OP-017,Synthetic case for training only
+CBB-SYN-0074,Downtown,Relationship Manager,Payroll,Standard,2026-09-04,2026-09-07,2026-09-07,Completed,3,None,CUST-TRAIN-0074,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0075,Downtown,Mobile,Savings,Standard,2026-09-09,2026-09-09,2026-09-09,Completed,3,Missing document,CUST-TRAIN-0075,Team A,OP-006,Synthetic case for training only
+CBB-SYN-0076,Downtown,Mobile,Savings,Enhanced Review,2026-09-24,2026-09-24,2026-10-05,Completed,7,None,CUST-TRAIN-0076,Team C,OP-008,Synthetic case for training only
+CBB-SYN-0077,Downtown,Branch,Payroll,Standard,2026-09-17,2026-09-18,2026-09-22,Completed,3,None,CUST-TRAIN-0077,Team C,OP-017,Synthetic case for training only
+CBB-SYN-0078,Downtown,Relationship Manager,Savings,Standard,2026-09-04,2026-09-04,2026-09-08,Completed,3,Missing document,CUST-TRAIN-0078,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0079,Downtown,Web,Savings,Standard,2026-09-24,2026-09-25,,In Progress,3,Missing document,CUST-TRAIN-0079,Team C,OP-019,Synthetic case for training only
+CBB-SYN-0080,Downtown,Web,Payroll,Enhanced Review,2026-09-04,2026-09-04,2026-09-16,Completed,7,System queue,CUST-TRAIN-0080,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0081,Downtown,Branch,Current,Enhanced Review,2026-09-15,2026-09-16,2026-10-05,Completed,7,Verification follow-up,CUST-TRAIN-0081,Team C,OP-003,Synthetic case for training only
+CBB-SYN-0082,Downtown,Branch,Savings,Standard,2026-09-08,2026-09-08,2026-09-08,Completed,3,Missing document,CUST-TRAIN-0082,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0083,Downtown,Web,Savings,Standard,2026-09-24,2026-09-29,2026-10-05,Completed,3,Address mismatch,CUST-TRAIN-0083,Team A,OP-001,Synthetic case for training only
+CBB-SYN-0084,Downtown,Relationship Manager,Current,Standard,2026-09-17,2026-09-21,2026-09-22,Completed,3,None,CUST-TRAIN-0084,Team B,OP-006,Synthetic case for training only
+CBB-SYN-0085,Downtown,Branch,Current,Standard,2026-09-21,2026-09-23,2026-10-01,Completed,3,System queue,CUST-TRAIN-0085,Team C,OP-003,Synthetic case for training only
+CBB-SYN-0086,Downtown,Relationship Manager,Savings,Enhanced Review,2026-09-07,2026-09-07,2026-09-09,Completed,7,Missing document,CUST-TRAIN-0086,Team B,OP-009,Synthetic case for training only
+CBB-SYN-0087,Downtown,Branch,Payroll,Standard,2026-09-02,2026-09-02,2026-09-02,Completed,3,Missing document,CUST-TRAIN-0087,Team B,OP-020,Synthetic case for training only
+CBB-SYN-0088,Downtown,Relationship Manager,Current,Standard,2026-09-15,2026-09-17,2026-09-17,Completed,3,None,CUST-TRAIN-0088,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0089,Downtown,Web,Savings,Standard,2026-09-07,2026-09-09,2026-09-22,Completed,3,Address mismatch,CUST-TRAIN-0089,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0090,Downtown,Web,Savings,Enhanced Review,2026-09-21,2026-09-21,2026-10-06,Completed,7,Missing document,CUST-TRAIN-0090,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0091,Downtown,Mobile,Payroll,Standard,2026-09-18,2026-09-18,2026-09-24,Completed,3,Address mismatch,CUST-TRAIN-0091,Team B,OP-010,Synthetic case for training only
+CBB-SYN-0092,Downtown,Relationship Manager,Current,Standard,2026-09-23,2026-09-24,2026-09-28,Completed,3,None,CUST-TRAIN-0092,Team B,OP-019,Synthetic case for training only
+CBB-SYN-0093,Downtown,Web,Current,Enhanced Review,2026-09-09,2026-09-10,2026-09-10,Completed,7,None,CUST-TRAIN-0093,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0094,Downtown,Mobile,Savings,Standard,2026-09-21,2026-09-21,2026-09-23,Completed,3,Missing document,CUST-TRAIN-0094,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0094,Downtown,Branch,Savings,Standard,2026-09-02,2026-09-03,2026-09-08,Completed,3,None,CUST-TRAIN-0095,Team A,OP-008,Synthetic case for training only
+CBB-SYN-0096,Downtown,Mobile,Current,Enhanced Review,2026-09-03,2026-09-03,2026-09-03,Completed,7,None,CUST-TRAIN-0096,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0097,Downtown,Relationship Manager,Payroll,Standard,2026-09-08,2026-09-08,2026-09-11,Completed,3,Missing document,CUST-TRAIN-0097,Team C,OP-009,Synthetic case for training only
+CBB-SYN-0098,Downtown,Branch,Payroll,Standard,2026-09-07,2026-09-07,2026-09-07,Completed,3,Missing document,CUST-TRAIN-0098,Team A,OP-020,Synthetic case for training only
+CBB-SYN-0099,Downtown,Mobile,Payroll,Standard,2026-09-24,2026-09-29,2026-10-05,Completed,3,Verification follow-up,CUST-TRAIN-0099,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0100,Downtown,Mobile,Payroll,Enhanced Review,2026-09-01,2026-09-01,2026-09-01,Completed,7,Missing document,CUST-TRAIN-0100,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0101,Downtown,Web,Current,Standard,2026-09-24,2026-09-25,2026-09-25,Completed,3,None,CUST-TRAIN-0101,Team A,OP-006,Synthetic case for training only
+CBB-SYN-0102,Downtown,Mobile,Current,Standard,2026-09-07,2026-09-07,2026-09-14,Completed,3,System queue,CUST-TRAIN-0102,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0103,Downtown,Web,Current,Enhanced Review,2026-09-11,2026-09-11,2026-09-14,Completed,7,Missing document,CUST-TRAIN-0103,Team B,OP-009,Synthetic case for training only
+CBB-SYN-0104,Downtown,Web,Payroll,Standard,2026-09-07,2026-09-10,2026-09-18,Completed,3,System queue,CUST-TRAIN-0104,Team A,OP-002,Synthetic case for training only
+CBB-SYN-0105,Downtown,Relationship Manager,Current,Standard,2026-09-22,,2026-10-05,Completed,3,None,CUST-TRAIN-0105,Team A,OP-014,Synthetic case for training only
+CBB-SYN-0106,Downtown,Web,Savings,Standard,2026-09-15,2026-09-17,2026-09-17,Completed,3,Missing document,CUST-TRAIN-0106,Team A,OP-009,Synthetic case for training only
+CBB-SYN-0107,Downtown,Relationship Manager,Current,Standard,2026-09-03,2026-09-03,2026-09-09,Completed,3,Verification follow-up,CUST-TRAIN-0107,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0108,Downtown,Web,Current,Standard,2026-09-14,2026-09-17,2026-09-22,Completed,3,None,CUST-TRAIN-0108,Team A,OP-020,Synthetic case for training only
+CBB-SYN-0109,Downtown,Web,Savings,Standard,2026-09-23,2026-09-24,,In Progress,3,None,CUST-TRAIN-0109,Team C,OP-011,Synthetic case for training only
+CBB-SYN-0110,Downtown,Branch,Payroll,Standard,2026-09-14,2026-09-15,2026-09-16,Completed,3,Missing document,CUST-TRAIN-0110,Team A,OP-001,Synthetic case for training only
+CBB-SYN-0111,Downtown,Relationship Manager,Payroll,Standard,2026-09-17,2026-09-17,2026-09-25,Completed,3,Verification follow-up,CUST-TRAIN-0111,Team A,OP-013,Synthetic case for training only
+CBB-SYN-0112,Downtown,Web,Savings,Enhanced Review,2026-09-16,2026-09-17,2026-09-16,Completed,7,None,CUST-TRAIN-0112,Team A,OP-017,Synthetic case for training only
+CBB-SYN-0113,Downtown,Relationship Manager,Savings,Enhanced Review,2026-09-24,2026-09-24,2026-10-08,Completed,7,Address mismatch,CUST-TRAIN-0113,Team B,OP-001,Synthetic case for training only
+CBB-SYN-0114,Downtown,Branch,Savings,Standard,2026-09-21,2026-09-24,2026-09-29,Completed,3,None,CUST-TRAIN-0114,Team B,OP-020,Synthetic case for training only
+CBB-SYN-0115,Downtown,Web,Payroll,Enhanced Review,2026-09-17,2026-09-21,2026-09-28,Completed,7,None,CUST-TRAIN-0115,Team C,OP-008,Synthetic case for training only
+CBB-SYN-0116,Downtown,Relationship Manager,Current,Standard,2026-09-17,2026-09-17,2026-09-25,Completed,3,None,CUST-TRAIN-0116,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0117,Downtown,Relationship Manager,Savings,Standard,2026-09-17,2026-09-18,2026-09-21,Completed,3,None,CUST-TRAIN-0117,Team C,OP-014,Synthetic case for training only
+CBB-SYN-0118,Downtown,Branch,Payroll,Standard,2026-09-23,2026-09-28,2026-09-29,Completed,3,None,CUST-TRAIN-0118,Team C,OP-005,Synthetic case for training only
+CBB-SYN-0119,Downtown,Web,Current,Standard,2026-09-24,2026-09-24,2026-09-28,Completed,3,None,CUST-TRAIN-0119,Team C,OP-005,Synthetic case for training only
+CBB-SYN-0120,Downtown,Relationship Manager,Savings,Standard,2026-09-11,2026-09-16,,Completed,3,Missing document,CUST-TRAIN-0120,Team C,OP-020,Synthetic case for training only
+CBB-SYN-0121,Downtown,Relationship Manager,Savings,Standard,2026-09-02,2026-09-03,2026-09-07,Completed,3,None,CUST-TRAIN-0121,Team C,OP-019,Synthetic case for training only
+CBB-SYN-0122,Downtown,Web,Payroll,Standard,2026-09-21,2026-09-22,2026-09-24,Completed,3,None,CUST-TRAIN-0122,Team A,OP-004,Synthetic case for training only
+CBB-SYN-0123,Downtown,Branch,Payroll,Standard,2026-09-10,2026-09-11,2026-09-11,Completed,3,None,CUST-TRAIN-0123,Team A,OP-010,Synthetic case for training only
+CBB-SYN-0124,Downtown,Mobile,Savings,Standard,2026-09-21,2026-09-22,2026-09-30,Completed,3,None,CUST-TRAIN-0124,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0125,Downtown,Web,Current,Standard,2026-09-16,2026-09-16,2026-09-29,Completed,3,Verification follow-up,CUST-TRAIN-0125,Team A,OP-002,Synthetic case for training only
+CBB-SYN-0126,Downtown,Branch,Savings,Standard,2026-09-09,2026-09-11,2026-09-24,Completed,3,System queue,CUST-TRAIN-0126,Team A,OP-014,Synthetic case for training only
+CBB-SYN-0127,Downtown,Mobile,Payroll,Enhanced Review,2026-09-15,2026-09-15,2026-09-17,Completed,7,Missing document,CUST-TRAIN-0127,Team C,OP-002,Synthetic case for training only
+CBB-SYN-0128,Downtown,Branch,Current,Enhanced Review,2026-09-21,2026-09-23,2026-10-06,Completed,7,Verification follow-up,CUST-TRAIN-0128,Team A,OP-003,Synthetic case for training only
+CBB-SYN-0129,Downtown,Web,Savings,Enhanced Review,2026-09-07,2026-09-09,2026-09-11,Completed,7,None,CUST-TRAIN-0129,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0130,Downtown,Mobile,Payroll,Standard,2026-09-11,2026-09-16,2026-09-21,Completed,3,Missing document,CUST-TRAIN-0130,Team B,OP-020,Synthetic case for training only
+CBB-SYN-0131,Downtown,Relationship Manager,Savings,Standard,2026-09-04,2026-09-07,2026-09-11,Completed,3,None,CUST-TRAIN-0131,Team B,OP-010,Synthetic case for training only
+CBB-SYN-0132,Downtown,Branch,Payroll,Standard,2026-09-01,2026-09-03,2026-09-09,Completed,3,System queue,CUST-TRAIN-0132,Team A,OP-004,Synthetic case for training only
+CBB-SYN-0133,Downtown,Branch,Payroll,Standard,2026-09-04,2026-09-07,2026-09-09,Completed,3,None,CUST-TRAIN-0133,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0133,Downtown,Branch,Savings,Standard,2026-09-24,2026-09-25,2026-09-28,Completed,3,Missing document,CUST-TRAIN-0134,Team B,OP-004,Synthetic case for training only
+CBB-SYN-0135,Downtown,Branch,Savings,Standard,2026-09-22,2026-09-22,2026-09-24,Completed,3,Missing document,CUST-TRAIN-0135,Team A,OP-013,Synthetic case for training only
+CBB-SYN-0136,Downtown,Web,Payroll,Enhanced Review,2026-09-01,2026-09-01,2026-09-18,Completed,7,Missing document,CUST-TRAIN-0136,Team B,OP-006,Synthetic case for training only
+CBB-SYN-0137,Downtown,Branch,Payroll,Standard,2026-09-24,2026-09-25,2026-09-25,Completed,3,None,CUST-TRAIN-0137,Team A,OP-017,Synthetic case for training only
+CBB-SYN-0138,Downtown,Branch,Payroll,Standard,2026-09-17,2026-09-18,2026-09-21,Completed,3,None,CUST-TRAIN-0138,Team A,OP-003,Synthetic case for training only
+CBB-SYN-0139,Downtown,Mobile,Savings,Standard,2026-09-08,2026-09-10,2026-09-15,Completed,3,None,CUST-TRAIN-0139,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0140,Downtown,Branch,Current,Standard,2026-09-21,2026-09-21,2026-09-24,Completed,3,Missing document,CUST-TRAIN-0140,Team B,OP-001,Synthetic case for training only
+CBB-SYN-0141,Downtown,Web,Savings,Standard,2026-09-10,2026-09-14,2026-09-15,Completed,3,Missing document,CUST-TRAIN-0141,Team A,OP-008,Synthetic case for training only
+CBB-SYN-0142,Downtown,Relationship Manager,Savings,Standard,2026-09-11,2026-09-11,2026-09-15,Completed,3,None,CUST-TRAIN-0142,Team A,OP-015,Synthetic case for training only
+CBB-SYN-0143,Downtown,Web,Savings,Enhanced Review,2026-09-02,2026-09-03,2026-09-14,Completed,7,None,CUST-TRAIN-0143,Team B,OP-004,Synthetic case for training only
+CBB-SYN-0144,Downtown,Relationship Manager,Payroll,Standard,2026-09-21,2026-09-21,2026-10-02,Completed,3,Missing document,CUST-TRAIN-0144,Team A,OP-011,Synthetic case for training only
+CBB-SYN-0145,Downtown,Relationship Manager,Savings,Enhanced Review,2026-09-02,2026-09-03,2026-09-11,Completed,7,None,CUST-TRAIN-0145,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0146,Downtown,Web,Savings,Standard,2026-09-09,2026-09-11,,In Progress,3,Missing document,CUST-TRAIN-0146,Team B,OP-002,Synthetic case for training only
+CBB-SYN-0147,Downtown,Mobile,Savings,Standard,2026-09-15,2026-09-18,2026-10-01,Completed,3,Data entry correction,CUST-TRAIN-0147,Team C,OP-015,Synthetic case for training only
+CBB-SYN-0148,Downtown,Relationship Manager,Savings,Enhanced Review,2026-09-22,2026-09-23,2026-09-29,Completed,7,None,CUST-TRAIN-0148,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0149,Downtown,Relationship Manager,Savings,Standard,2026-09-23,2026-09-24,2026-10-01,Completed,3,Verification follow-up,CUST-TRAIN-0149,Team C,OP-019,Synthetic case for training only
+CBB-SYN-0150,Downtown,Mobile,Current,Standard,2026-09-14,2026-09-15,2026-09-23,Completed,3,Verification follow-up,CUST-TRAIN-0150,Team C,OP-002,Synthetic case for training only
+CBB-SYN-0151,Downtown,Branch,Payroll,Standard,2026-09-17,2026-09-18,2026-09-23,Completed,3,Missing document,CUST-TRAIN-0151,Team C,OP-008,Synthetic case for training only
+CBB-SYN-0152,Downtown,Mobile,Current,Standard,2026-09-22,2026-09-23,2026-09-28,Completed,3,Missing document,CUST-TRAIN-0152,Team A,OP-008,Synthetic case for training only
+CBB-SYN-0153,Downtown,Relationship Manager,Payroll,Enhanced Review,2026-09-04,2026-09-09,2026-09-15,Completed,7,None,CUST-TRAIN-0153,Team A,OP-013,Synthetic case for training only
+CBB-SYN-0154,Downtown,Web,Savings,Standard,2026-09-04,2026-09-09,2026-09-10,Completed,3,None,CUST-TRAIN-0154,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0155,Downtown,Relationship Manager,Savings,Standard,2026-09-18,2026-09-21,2026-09-23,Completed,3,None,CUST-TRAIN-0155,Team A,OP-001,Synthetic case for training only
+CBB-SYN-0156,Downtown,Mobile,Savings,Enhanced Review,2026-09-08,2026-09-10,2026-09-15,Completed,7,Missing document,CUST-TRAIN-0156,Team C,OP-002,Synthetic case for training only
+CBB-SYN-0157,Downtown,Web,Current,Enhanced Review,2026-09-09,2026-09-10,2026-09-22,Completed,7,Address mismatch,CUST-TRAIN-0157,Team C,OP-004,Synthetic case for training only
+CBB-SYN-0158,Downtown,Relationship Manager,Current,Standard,2026-09-17,2026-09-18,2026-09-18,Completed,3,None,CUST-TRAIN-0158,Team B,OP-002,Synthetic case for training only
+CBB-SYN-0159,Downtown,Branch,Savings,Standard,2026-09-03,2026-09-07,2026-09-07,Completed,3,None,CUST-TRAIN-0159,Team A,OP-019,Synthetic case for training only
+CBB-SYN-0160,Downtown,Mobile,Savings,Standard,2026-09-11,2026-09-15,2026-09-23,Completed,3,Address mismatch,CUST-TRAIN-0160,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0161,Downtown,Relationship Manager,Savings,Enhanced Review,2026-09-15,2026-09-18,2026-10-01,Completed,7,Data entry correction,CUST-TRAIN-0161,Team A,OP-016,Synthetic case for training only
+CBB-SYN-0162,Downtown,Relationship Manager,Current,Standard,2026-09-14,2026-09-14,2026-09-14,Completed,3,None,CUST-TRAIN-0162,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0163,Downtown,Web,Savings,Enhanced Review,2026-09-07,2026-09-10,2026-09-11,Completed,7,None,CUST-TRAIN-0163,Team C,OP-009,Synthetic case for training only
+CBB-SYN-0164,Downtown,Web,Current,Standard,2026-09-03,2026-09-07,2026-09-07,Completed,3,Missing document,CUST-TRAIN-0164,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0165,Downtown,Web,Payroll,Standard,2026-09-01,2026-09-02,2026-09-14,Completed,3,None,CUST-TRAIN-0165,Team B,OP-001,Synthetic case for training only
+CBB-SYN-0166,Downtown,Branch,Savings,Standard,2026-09-02,2026-09-07,2026-09-15,Completed,3,Missing document,CUST-TRAIN-0166,Team A,OP-006,Synthetic case for training only
+CBB-SYN-0167,Downtown,Mobile,Savings,Standard,2026-09-10,2026-09-10,2026-09-14,Completed,3,Missing document,CUST-TRAIN-0167,Team B,OP-008,Synthetic case for training only
+CBB-SYN-0168,Downtown,Relationship Manager,Current,Standard,2026-09-11,2026-09-16,2026-09-21,Completed,3,None,CUST-TRAIN-0168,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0169,Downtown,Relationship Manager,Current,Standard,2026-09-16,2026-09-16,2026-09-18,Completed,3,Missing document,CUST-TRAIN-0169,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0170,Downtown,Branch,Current,Standard,2026-09-18,2026-09-21,2026-09-22,Completed,3,None,CUST-TRAIN-0170,Team B,OP-006,Synthetic case for training only
+CBB-SYN-0171,Downtown,Mobile,Savings,Standard,2026-09-21,2026-09-22,,In Progress,3,Missing document,CUST-TRAIN-0171,Team C,OP-011,Synthetic case for training only
+CBB-SYN-0172,Downtown,Branch,Current,Standard,2026-09-16,2026-09-17,2026-09-18,Completed,3,None,CUST-TRAIN-0172,Team B,OP-009,Synthetic case for training only
+CBB-SYN-0173,Downtown,Relationship Manager,Savings,Standard,2026-09-02,2026-09-03,2026-09-15,Completed,3,Verification follow-up,CUST-TRAIN-0173,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0174,Downtown,Branch,Savings,Standard,2026-09-10,2026-09-14,2026-09-18,Completed,3,Data entry correction,CUST-TRAIN-0174,Team C,OP-016,Synthetic case for training only
+CBB-SYN-0175,Downtown,Web,Payroll,Standard,2026-09-10,2026-09-11,2026-09-17,Completed,3,Data entry correction,CUST-TRAIN-0175,Team C,OP-005,Synthetic case for training only
+CBB-SYN-0176,Downtown,Mobile,Current,Enhanced Review,2026-09-24,2026-09-24,2026-09-24,Completed,7,None,CUST-TRAIN-0176,Team C,OP-005,Synthetic case for training only
+CBB-SYN-0177,Downtown,Web,Savings,Standard,2026-09-08,2026-09-08,2026-09-11,Completed,3,None,CUST-TRAIN-0177,Team C,OP-017,Synthetic case for training only
+CBB-SYN-0178,Downtown,Web,Payroll,Enhanced Review,2026-09-03,2026-09-07,2026-09-08,Completed,7,None,CUST-TRAIN-0178,Team C,OP-015,Synthetic case for training only
+CBB-SYN-0179,Downtown,Web,Savings,Standard,2026-09-09,2026-09-09,2026-09-09,Completed,3,None,CUST-TRAIN-0179,Team C,OP-011,Synthetic case for training only
+CBB-SYN-0180,Downtown,Relationship Manager,Payroll,Standard,2026-09-23,2026-09-23,2026-09-29,Completed,3,Verification follow-up,CUST-TRAIN-0180,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0181,Marina,Relationship Manager,Savings,Standard,2026-09-09,2026-09-11,2026-09-21,Completed,3,Missing document,CUST-TRAIN-0181,Team A,OP-016,Synthetic case for training only
+CBB-SYN-0182,Marina,Web,Current,Standard,2026-09-15,2026-09-15,2026-09-17,Completed,3,None,CUST-TRAIN-0182,Team B,OP-007,Synthetic case for training only
+CBB-SYN-0183,Marina,Branch,Savings,Standard,2026-09-16,2026-09-16,2026-09-18,Completed,3,Missing document,CUST-TRAIN-0183,Team A,OP-005,Synthetic case for training only
+CBB-SYN-0184,Marina,Branch,Payroll,Standard,2026-09-04,2026-09-08,2026-09-21,Completed,3,System queue,CUST-TRAIN-0184,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0185,Marina,Web,Savings,Standard,2026-09-10,2026-09-11,2026-09-15,Completed,3,None,CUST-TRAIN-0185,Team A,OP-009,Synthetic case for training only
+CBB-SYN-0186,Marina,Web,Current,Enhanced Review,2026-09-14,2026-09-15,2026-09-22,Completed,7,None,CUST-TRAIN-0186,Team B,OP-010,Synthetic case for training only
+CBB-SYN-0187,Marina,Mobile,Payroll,Standard,2026-09-17,2026-09-21,2026-09-23,Completed,3,Missing document,CUST-TRAIN-0187,Team A,OP-004,Synthetic case for training only
+CBB-SYN-0188,Marina,Mobile,Savings,Enhanced Review,2026-09-18,2026-09-18,2026-10-02,Completed,7,Address mismatch,CUST-TRAIN-0188,Team A,OP-007,Synthetic case for training only
+CBB-SYN-0189,Marina,Branch,Payroll,Standard,2026-09-22,2026-09-25,2026-10-01,Completed,3,Data entry correction,CUST-TRAIN-0189,Team C,OP-008,Synthetic case for training only
+CBB-SYN-0190,Marina,Relationship Manager,Savings,Standard,2026-09-03,2026-09-04,2026-09-17,Completed,3,Verification follow-up,CUST-TRAIN-0190,Team B,OP-004,Synthetic case for training only
+CBB-SYN-0191,Marina,Branch,Savings,Standard,2026-09-18,2026-09-21,2026-09-25,Completed,3,None,CUST-TRAIN-0191,Team B,OP-002,Synthetic case for training only
+CBB-SYN-0191,Marina,Branch,Savings,Enhanced Review,2026-09-09,2026-09-11,2026-09-28,Completed,7,Verification follow-up,CUST-TRAIN-0192,Team A,OP-017,Synthetic case for training only
+CBB-SYN-0193,Marina,Web,Current,Standard,2026-09-11,2026-09-14,2026-09-17,Completed,3,None,CUST-TRAIN-0193,Team A,OP-005,Synthetic case for training only
+CBB-SYN-0194,Marina,Web,Savings,Standard,2026-09-08,2026-09-08,2026-09-08,Completed,3,None,CUST-TRAIN-0194,Team A,OP-010,Synthetic case for training only
+CBB-SYN-0195,Marina,Web,Payroll,Standard,2026-09-02,2026-09-07,2026-09-16,Completed,3,None,CUST-TRAIN-0195,Team A,OP-003,Synthetic case for training only
+CBB-SYN-0196,Marina,Web,Savings,Standard,2026-09-17,2026-09-17,2026-09-30,Completed,3,None,CUST-TRAIN-0196,Team C,OP-008,Synthetic case for training only
+CBB-SYN-0197,Marina,Branch,Payroll,Standard,2026-09-11,2026-09-14,2026-09-13,Completed,3,Missing document,CUST-TRAIN-0197,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0198,Marina,Branch,Current,Standard,2026-09-10,2026-09-11,2026-09-22,Completed,3,Verification follow-up,CUST-TRAIN-0198,Team A,OP-004,Synthetic case for training only
+CBB-SYN-0199,Marina,Relationship Manager,Savings,Standard,2026-09-14,2026-09-17,2026-09-21,Completed,3,Missing document,CUST-TRAIN-0199,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0200,Marina,Relationship Manager,Current,Standard,2026-09-02,2026-09-02,2026-09-04,Completed,3,None,CUST-TRAIN-0200,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0201,Marina,Mobile,Payroll,Standard,2026-09-01,2026-09-04,2026-09-04,Completed,3,Missing document,CUST-TRAIN-0201,Team B,OP-009,Synthetic case for training only
+CBB-SYN-0202,Marina,Branch,Savings,Standard,2026-09-23,2026-09-28,2026-10-05,Completed,3,Verification follow-up,CUST-TRAIN-0202,Team B,OP-015,Synthetic case for training only
+CBB-SYN-0203,Marina,Branch,Savings,Standard,2026-09-03,2026-09-07,2026-09-10,Completed,3,None,CUST-TRAIN-0203,Team B,OP-018,Synthetic case for training only
+CBB-SYN-0204,Marina,Mobile,Payroll,Standard,2026-09-21,2026-09-22,2026-10-05,Completed,3,Data entry correction,CUST-TRAIN-0204,Team B,OP-014,Synthetic case for training only
+CBB-SYN-0205,Marina,Mobile,Current,Standard,2026-09-15,2026-09-15,2026-09-28,Completed,3,Data entry correction,CUST-TRAIN-0205,Team B,OP-016,Synthetic case for training only
+CBB-SYN-0206,Marina,Web,Payroll,Standard,2026-09-21,2026-09-22,2026-10-02,Completed,3,System queue,CUST-TRAIN-0206,Team C,OP-002,Synthetic case for training only
+CBB-SYN-0207,Marina,Web,Savings,Standard,2026-09-10,2026-09-10,2026-09-10,Completed,3,None,CUST-TRAIN-0207,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0208,Marina,Branch,Current,Enhanced Review,2026-09-18,2026-09-22,2026-10-09,Completed,7,None,CUST-TRAIN-0208,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0209,Marina,Branch,Current,Standard,2026-09-24,2026-09-25,,In Progress,3,None,CUST-TRAIN-0209,Team A,OP-012,Synthetic case for training only
+CBB-SYN-0210,Marina,Branch,Savings,Enhanced Review,2026-09-23,2026-09-25,2026-09-25,Completed,7,Missing document,CUST-TRAIN-0210,Team B,OP-004,Synthetic case for training only
+CBB-SYN-0211,Marina,Branch,Savings,Standard,2026-09-17,2026-09-18,2026-09-24,Completed,3,Address mismatch,CUST-TRAIN-0211,Team B,OP-010,Synthetic case for training only
+CBB-SYN-0212,Marina,Relationship Manager,Current,Standard,2026-09-02,2026-09-02,2026-09-07,Completed,3,Missing document,CUST-TRAIN-0212,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0213,Marina,Branch,Savings,Enhanced Review,2026-09-17,2026-09-18,2026-10-02,Completed,7,Verification follow-up,CUST-TRAIN-0213,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0214,Marina,Mobile,Savings,Enhanced Review,2026-09-02,2026-09-03,2026-09-03,Completed,7,Missing document,CUST-TRAIN-0214,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0215,Marina,Branch,Payroll,Standard,2026-09-16,2026-09-18,2026-10-01,Completed,3,Data entry correction,CUST-TRAIN-0215,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0216,Marina,Relationship Manager,Savings,Standard,2026-09-14,2026-09-16,2026-09-28,Completed,3,Missing document,CUST-TRAIN-0216,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0217,Marina,Mobile,Payroll,Standard,2026-09-01,2026-09-04,2026-09-10,Completed,3,Verification follow-up,CUST-TRAIN-0217,Team A,OP-010,Synthetic case for training only
+CBB-SYN-0218,Marina,Branch,Savings,Standard,2026-09-03,2026-09-08,2026-09-16,Completed,3,Missing document,CUST-TRAIN-0218,Team B,OP-009,Synthetic case for training only
+CBB-SYN-0219,Marina,Branch,Current,Standard,2026-09-23,2026-09-23,2026-09-28,Completed,3,None,CUST-TRAIN-0219,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0220,Marina,Mobile,Savings,Standard,2026-09-09,2026-09-09,2026-09-17,Completed,3,None,CUST-TRAIN-0220,Team C,OP-006,Synthetic case for training only
+CBB-SYN-0221,Marina,Web,Savings,Enhanced Review,2026-09-18,2026-09-23,2026-09-28,Completed,7,Missing document,CUST-TRAIN-0221,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0222,Marina,Relationship Manager,Current,Standard,2026-09-03,2026-09-03,2026-09-04,Completed,3,None,CUST-TRAIN-0222,Team C,OP-004,Synthetic case for training only
+CBB-SYN-0223,Marina,Relationship Manager,Payroll,Standard,2026-09-03,2026-09-03,2026-09-11,Completed,3,System queue,CUST-TRAIN-0223,Team B,OP-014,Synthetic case for training only
+CBB-SYN-0224,Marina,Mobile,Payroll,Standard,2026-09-18,2026-09-22,2026-10-01,Completed,3,None,CUST-TRAIN-0224,Team C,OP-013,Synthetic case for training only
+CBB-SYN-0225,Marina,Mobile,Current,Standard,2026-09-16,2026-09-16,2026-09-29,Completed,3,System queue,CUST-TRAIN-0225,Team C,OP-011,Synthetic case for training only
+CBB-SYN-0226,Marina,Relationship Manager,Current,Standard,2026-09-09,2026-09-10,2026-09-16,Completed,3,None,CUST-TRAIN-0226,Team A,OP-013,Synthetic case for training only
+CBB-SYN-0227,Marina,Web,Payroll,Standard,2026-09-21,2026-09-22,2026-09-29,Completed,3,Address mismatch,CUST-TRAIN-0227,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0228,Marina,Web,Current,Standard,2026-09-08,2026-09-08,,Completed,3,Data entry correction,CUST-TRAIN-0228,Team A,OP-010,Synthetic case for training only
+CBB-SYN-0229,Marina,Branch,Payroll,Enhanced Review,2026-09-07,2026-09-10,2026-09-29,Completed,7,Verification follow-up,CUST-TRAIN-0229,Team B,OP-020,Synthetic case for training only
+CBB-SYN-0230,Marina,Web,Savings,Standard,2026-09-11,2026-09-16,2026-09-23,Completed,3,Address mismatch,CUST-TRAIN-0230,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0231,Marina,Mobile,Current,Standard,2026-09-04,2026-09-07,2026-09-11,Completed,3,Data entry correction,CUST-TRAIN-0231,Team A,OP-005,Synthetic case for training only
+CBB-SYN-0232,Marina,Web,Savings,Standard,2026-09-01,2026-09-03,2026-09-14,Completed,3,Verification follow-up,CUST-TRAIN-0232,Team A,OP-017,Synthetic case for training only
+CBB-SYN-0233,Marina,Web,Payroll,Standard,2026-09-15,2026-09-16,2026-09-24,Completed,3,None,CUST-TRAIN-0233,Team C,OP-007,Synthetic case for training only
+CBB-SYN-0234,Marina,Branch,Savings,Standard,2026-09-11,2026-09-14,2026-09-16,Completed,3,None,CUST-TRAIN-0234,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0235,Marina,Mobile,Savings,Standard,2026-09-09,,2026-09-23,Completed,3,System queue,CUST-TRAIN-0235,Team C,OP-020,Synthetic case for training only
+CBB-SYN-0236,Marina,Web,Savings,Standard,2026-09-11,2026-09-15,2026-09-16,Completed,3,None,CUST-TRAIN-0236,Team C,OP-004,Synthetic case for training only
+CBB-SYN-0237,Marina,Relationship Manager,Savings,Standard,2026-09-23,2026-09-28,2026-09-30,Completed,3,None,CUST-TRAIN-0237,Team A,OP-009,Synthetic case for training only
+CBB-SYN-0238,Marina,Mobile,Current,Standard,2026-09-11,2026-09-11,2026-09-16,Completed,3,Missing document,CUST-TRAIN-0238,Team C,OP-004,Synthetic case for training only
+CBB-SYN-0239,Marina,Web,Savings,Standard,2026-09-09,2026-09-09,2026-09-17,Completed,3,Address mismatch,CUST-TRAIN-0239,Team A,OP-020,Synthetic case for training only
+CBB-SYN-0240,Marina,Relationship Manager,Current,Enhanced Review,2026-09-07,2026-09-08,2026-09-21,Completed,7,Address mismatch,CUST-TRAIN-0240,Team A,OP-003,Synthetic case for training only
+CBB-SYN-0241,Marina,Mobile,Current,Standard,2026-09-23,2026-09-28,2026-09-29,Completed,3,None,CUST-TRAIN-0241,Team A,OP-002,Synthetic case for training only
+CBB-SYN-0242,Marina,Web,Current,Standard,2026-09-07,2026-09-09,2026-09-21,Completed,3,None,CUST-TRAIN-0242,Team B,OP-018,Synthetic case for training only
+CBB-SYN-0243,Marina,Web,Payroll,Standard,2026-09-22,2026-09-22,,In Progress,3,Data entry correction,CUST-TRAIN-0243,Team A,OP-005,Synthetic case for training only
+CBB-SYN-0244,Marina,Branch,Current,Standard,2026-09-02,2026-09-04,2026-09-17,Completed,3,Verification follow-up,CUST-TRAIN-0244,Team A,OP-017,Synthetic case for training only
+CBB-SYN-0245,Marina,Relationship Manager,Current,Standard,2026-09-14,2026-09-14,2026-09-21,Completed,3,Data entry correction,CUST-TRAIN-0245,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0246,Marina,Mobile,Current,Standard,2026-09-07,2026-09-08,2026-09-08,Completed,3,None,CUST-TRAIN-0246,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0247,Marina,Branch,Savings,Standard,2026-09-07,2026-09-08,2026-09-10,Completed,3,None,CUST-TRAIN-0247,Team C,OP-011,Synthetic case for training only
+CBB-SYN-0248,Marina,Branch,Savings,Standard,2026-09-01,2026-09-02,2026-09-09,Completed,3,Address mismatch,CUST-TRAIN-0248,Team A,OP-002,Synthetic case for training only
+CBB-SYN-0249,Marina,Web,Savings,Standard,2026-09-24,2026-09-24,2026-10-01,Completed,3,Verification follow-up,CUST-TRAIN-0249,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0250,Marina,Branch,Payroll,Standard,2026-09-04,2026-09-04,2026-09-10,Completed,3,None,CUST-TRAIN-0250,Team B,OP-020,Synthetic case for training only
+CBB-SYN-0251,Marina,Relationship Manager,Payroll,Standard,2026-09-17,2026-09-17,2026-09-28,Completed,3,System queue,CUST-TRAIN-0251,Team C,OP-002,Synthetic case for training only
+CBB-SYN-0252,Marina,Relationship Manager,Payroll,Standard,2026-09-04,2026-09-08,2026-09-17,Completed,3,Data entry correction,CUST-TRAIN-0252,Team A,OP-007,Synthetic case for training only
+CBB-SYN-0253,Marina,Branch,Payroll,Standard,2026-09-24,2026-09-24,2026-10-06,Completed,3,System queue,CUST-TRAIN-0253,Team C,OP-018,Synthetic case for training only
+CBB-SYN-0254,Marina,Mobile,Payroll,Standard,2026-09-24,2026-09-29,2026-10-07,Completed,3,Data entry correction,CUST-TRAIN-0254,Team C,OP-009,Synthetic case for training only
+CBB-SYN-0255,Marina,Mobile,Current,Standard,2026-09-21,2026-09-21,2026-10-01,Completed,3,Data entry correction,CUST-TRAIN-0255,Team C,OP-019,Synthetic case for training only
+CBB-SYN-0256,Marina,Mobile,Payroll,Standard,2026-09-09,2026-09-09,2026-09-14,Completed,3,None,CUST-TRAIN-0256,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0257,Marina,Web,Current,Standard,2026-09-03,2026-09-04,2026-09-15,Completed,3,Missing document,CUST-TRAIN-0257,Team C,OP-013,Synthetic case for training only
+CBB-SYN-0258,Marina,Branch,Current,Standard,2026-09-07,2026-09-07,2026-09-16,Completed,3,System queue,CUST-TRAIN-0258,Team C,OP-017,Synthetic case for training only
+CBB-SYN-0259,Marina,Web,Savings,Standard,2026-09-17,2026-09-21,2026-09-30,Completed,3,Address mismatch,CUST-TRAIN-0259,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0260,Marina,Web,Savings,Standard,2026-09-17,2026-09-17,2026-09-30,Completed,3,Missing document,CUST-TRAIN-0260,Team A,OP-019,Synthetic case for training only
+CBB-SYN-0261,Marina,Relationship Manager,Payroll,Enhanced Review,2026-09-15,2026-09-15,2026-10-01,Completed,7,Verification follow-up,CUST-TRAIN-0261,Team A,OP-014,Synthetic case for training only
+CBB-SYN-0262,Marina,Mobile,Savings,Enhanced Review,2026-09-08,2026-09-08,2026-09-24,Completed,7,Data entry correction,CUST-TRAIN-0262,Team A,OP-008,Synthetic case for training only
+CBB-SYN-0263,Marina,Branch,Savings,Standard,2026-09-18,2026-09-21,2026-09-20,Completed,3,Missing document,CUST-TRAIN-0263,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0264,Marina,Web,Savings,Standard,2026-09-08,2026-09-09,2026-09-22,Completed,3,Address mismatch,CUST-TRAIN-0264,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0265,Marina,Web,Savings,Enhanced Review,2026-09-10,2026-09-14,2026-09-25,Completed,7,None,CUST-TRAIN-0265,Team A,OP-015,Synthetic case for training only
+CBB-SYN-0266,Marina,Web,Savings,Enhanced Review,2026-09-11,2026-09-15,2026-09-16,Completed,7,None,CUST-TRAIN-0266,Team A,OP-003,Synthetic case for training only
+CBB-SYN-0267,Marina,Mobile,Savings,Standard,2026-09-08,2026-09-08,2026-09-18,Completed,3,Address mismatch,CUST-TRAIN-0267,Team B,OP-014,Synthetic case for training only
+CBB-SYN-0268,Marina,Branch,Savings,Standard,2026-09-23,2026-09-24,2026-09-25,Completed,3,None,CUST-TRAIN-0268,Team C,OP-011,Synthetic case for training only
+CBB-SYN-0269,Marina,Relationship Manager,Savings,Standard,2026-09-03,2026-09-08,2026-09-09,Completed,3,Missing document,CUST-TRAIN-0269,Team C,OP-016,Synthetic case for training only
+CBB-SYN-0270,Marina,Web,Savings,Enhanced Review,2026-09-14,2026-09-14,2026-09-28,Completed,7,Address mismatch,CUST-TRAIN-0270,Team A,OP-010,Synthetic case for training only
+CBB-SYN-0271,Creekside,Web,Current,Standard,2026-09-16,2026-09-17,2026-09-22,Completed,3,None,CUST-TRAIN-0271,Team C,OP-008,Synthetic case for training only
+CBB-SYN-0272,Creekside,Mobile,Payroll,Standard,2026-09-22,2026-09-22,2026-09-25,Completed,3,None,CUST-TRAIN-0272,Team B,OP-009,Synthetic case for training only
+CBB-SYN-0273,Creekside,Branch,Current,Enhanced Review,2026-09-16,2026-09-18,2026-09-18,Completed,7,None,CUST-TRAIN-0273,Team B,OP-006,Synthetic case for training only
+CBB-SYN-0274,Creekside,Branch,Payroll,Standard,2026-09-17,2026-09-21,2026-09-21,Completed,3,None,CUST-TRAIN-0274,Team A,OP-017,Synthetic case for training only
+CBB-SYN-0275,Creekside,Relationship Manager,Current,Standard,2026-09-02,2026-09-03,2026-09-04,Completed,3,Missing document,CUST-TRAIN-0275,Team A,OP-011,Synthetic case for training only
+CBB-SYN-0276,Creekside,Mobile,Payroll,Standard,2026-09-18,2026-09-18,2026-09-30,Completed,3,System queue,CUST-TRAIN-0276,Team C,OP-014,Synthetic case for training only
+CBB-SYN-0277,Creekside,Web,Payroll,Standard,2026-09-07,2026-09-08,2026-09-21,Completed,3,Data entry correction,CUST-TRAIN-0277,Team C,OP-015,Synthetic case for training only
+CBB-SYN-0278,Creekside,Mobile,Savings,Standard,2026-09-02,2026-09-02,2026-09-04,Completed,3,Missing document,CUST-TRAIN-0278,Team B,OP-008,Synthetic case for training only
+CBB-SYN-0279,Creekside,Web,Current,Standard,2026-09-08,2026-09-08,,In Progress,3,None,CUST-TRAIN-0279,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0280,Creekside,Relationship Manager,Current,Standard,2026-09-24,2026-09-25,2026-09-28,Completed,3,Missing document,CUST-TRAIN-0280,Team A,OP-014,Synthetic case for training only
+CBB-SYN-0281,Creekside,Relationship Manager,Current,Standard,2026-09-23,2026-09-23,2026-09-25,Completed,3,None,CUST-TRAIN-0281,Team C,OP-009,Synthetic case for training only
+CBB-SYN-0282,Creekside,Mobile,Current,Standard,2026-09-02,2026-09-03,2026-09-03,Completed,3,Missing document,CUST-TRAIN-0282,Team B,OP-011,Synthetic case for training only
+CBB-SYN-0283,Creekside,Web,Current,Enhanced Review,2026-09-11,2026-09-11,2026-09-14,Completed,7,None,CUST-TRAIN-0283,Team A,OP-011,Synthetic case for training only
+CBB-SYN-0284,Creekside,Branch,Current,Standard,2026-09-11,2026-09-14,2026-09-25,Completed,3,Missing document,CUST-TRAIN-0284,Team B,OP-014,Synthetic case for training only
+CBB-SYN-0285,Creekside,Mobile,Payroll,Standard,2026-09-03,2026-09-04,2026-09-17,Completed,3,Data entry correction,CUST-TRAIN-0285,Team A,OP-006,Synthetic case for training only
+CBB-SYN-0286,Creekside,Branch,Current,Standard,2026-09-09,2026-09-09,2026-09-17,Completed,3,Verification follow-up,CUST-TRAIN-0286,Team B,OP-015,Synthetic case for training only
+CBB-SYN-0287,Creekside,Web,Current,Enhanced Review,2026-09-15,2026-09-15,2026-09-22,Completed,7,None,CUST-TRAIN-0287,Team B,OP-014,Synthetic case for training only
+CBB-SYN-0288,Creekside,Branch,Savings,Standard,2026-09-14,,2026-09-17,Completed,3,None,CUST-TRAIN-0288,Team A,OP-006,Synthetic case for training only
+CBB-SYN-0289,Creekside,Mobile,Current,Standard,2026-09-09,2026-09-10,2026-09-14,Completed,3,Missing document,CUST-TRAIN-0289,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0290,Creekside,Mobile,Payroll,Standard,2026-09-15,2026-09-15,2026-09-16,Completed,3,Missing document,CUST-TRAIN-0290,Team B,OP-014,Synthetic case for training only
+CBB-SYN-0291,Creekside,Mobile,Payroll,Standard,2026-09-01,2026-09-04,2026-09-09,Completed,3,None,CUST-TRAIN-0291,Team A,OP-011,Synthetic case for training only
+CBB-SYN-0291,Creekside,Mobile,Savings,Standard,2026-09-24,2026-09-25,2026-09-28,Completed,3,None,CUST-TRAIN-0292,Team A,OP-007,Synthetic case for training only
+CBB-SYN-0293,Creekside,Branch,Payroll,Enhanced Review,2026-09-02,2026-09-03,2026-09-04,Completed,7,None,CUST-TRAIN-0293,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0294,Creekside,Web,Savings,Enhanced Review,2026-09-15,2026-09-15,2026-09-29,Completed,7,Verification follow-up,CUST-TRAIN-0294,Team B,OP-015,Synthetic case for training only
+CBB-SYN-0295,Creekside,Mobile,Payroll,Standard,2026-09-01,2026-09-02,2026-09-07,Completed,3,None,CUST-TRAIN-0295,Team C,OP-017,Synthetic case for training only
+CBB-SYN-0296,Creekside,Mobile,Savings,Enhanced Review,2026-09-24,2026-09-24,2026-10-01,Completed,7,Missing document,CUST-TRAIN-0296,Team B,OP-016,Synthetic case for training only
+CBB-SYN-0297,Creekside,Branch,Savings,Standard,2026-09-16,2026-09-17,2026-09-21,Completed,3,None,CUST-TRAIN-0297,Team A,OP-015,Synthetic case for training only
+CBB-SYN-0298,Creekside,Branch,Current,Standard,2026-09-16,2026-09-17,2026-09-18,Completed,3,None,CUST-TRAIN-0298,Team A,OP-016,Synthetic case for training only
+CBB-SYN-0299,Creekside,Branch,Payroll,Standard,2026-09-08,2026-09-09,2026-09-10,Completed,3,Missing document,CUST-TRAIN-0299,Team C,OP-011,Synthetic case for training only
+CBB-SYN-0300,Creekside,Mobile,Payroll,Standard,2026-09-08,2026-09-09,2026-09-09,Completed,3,None,CUST-TRAIN-0300,Team C,OP-019,Synthetic case for training only
+CBB-SYN-0301,Creekside,Web,Current,Standard,2026-09-02,2026-09-07,2026-09-07,Completed,3,Missing document,CUST-TRAIN-0301,Team B,OP-001,Synthetic case for training only
+CBB-SYN-0302,Creekside,Relationship Manager,Savings,Enhanced Review,2026-09-01,2026-09-02,2026-09-11,Completed,7,None,CUST-TRAIN-0302,Team C,OP-017,Synthetic case for training only
+CBB-SYN-0303,Creekside,Mobile,Current,Enhanced Review,2026-09-14,2026-09-16,2026-09-16,Completed,7,None,CUST-TRAIN-0303,Team C,OP-015,Synthetic case for training only
+CBB-SYN-0304,Creekside,Relationship Manager,Current,Standard,2026-09-08,2026-09-08,2026-09-09,Completed,3,None,CUST-TRAIN-0304,Team A,OP-012,Synthetic case for training only
+CBB-SYN-0305,Creekside,Branch,Payroll,Standard,2026-09-01,2026-09-01,2026-09-11,Completed,3,Missing document,CUST-TRAIN-0305,Team C,OP-017,Synthetic case for training only
+CBB-SYN-0306,Creekside,Web,Savings,Standard,2026-09-23,2026-09-23,2026-09-25,Completed,3,None,CUST-TRAIN-0306,Team B,OP-020,Synthetic case for training only
+CBB-SYN-0307,Creekside,Relationship Manager,Savings,Standard,2026-09-17,2026-09-21,2026-09-22,Completed,3,None,CUST-TRAIN-0307,Team B,OP-009,Synthetic case for training only
+CBB-SYN-0308,Creekside,Branch,Payroll,Standard,2026-09-08,2026-09-09,2026-09-10,Completed,3,None,CUST-TRAIN-0308,Team A,OP-012,Synthetic case for training only
+CBB-SYN-0309,Creekside,Branch,Savings,Enhanced Review,2026-09-11,2026-09-14,2026-09-14,Completed,7,None,CUST-TRAIN-0309,Team B,OP-016,Synthetic case for training only
+CBB-SYN-0310,Creekside,Web,Savings,Standard,2026-09-18,2026-09-18,2026-09-21,Completed,3,Missing document,CUST-TRAIN-0310,Team A,OP-009,Synthetic case for training only
+CBB-SYN-0311,Creekside,Relationship Manager,Payroll,Standard,2026-09-09,2026-09-10,2026-09-10,Completed,3,None,CUST-TRAIN-0311,Team A,OP-019,Synthetic case for training only
+CBB-SYN-0312,Creekside,Branch,Savings,Standard,2026-09-16,2026-09-17,2026-09-18,Completed,3,Missing document,CUST-TRAIN-0312,Team A,OP-006,Synthetic case for training only
+CBB-SYN-0313,Creekside,Web,Current,Standard,2026-09-07,2026-09-07,2026-09-08,Completed,3,None,CUST-TRAIN-0313,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0314,Creekside,Branch,Current,Standard,2026-09-03,2026-09-04,2026-09-09,Completed,3,Missing document,CUST-TRAIN-0314,Team A,OP-016,Synthetic case for training only
+CBB-SYN-0315,Creekside,Mobile,Payroll,Standard,2026-09-17,2026-09-17,,In Progress,3,Missing document,CUST-TRAIN-0315,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0316,Creekside,Web,Savings,Standard,2026-09-09,2026-09-10,2026-09-11,Completed,3,None,CUST-TRAIN-0316,Team B,OP-006,Synthetic case for training only
+CBB-SYN-0317,Creekside,Web,Current,Standard,2026-09-10,2026-09-11,,Completed,3,None,CUST-TRAIN-0317,Team C,OP-005,Synthetic case for training only
+CBB-SYN-0318,Creekside,Mobile,Payroll,Standard,2026-09-11,2026-09-11,2026-09-18,Completed,3,Missing document,CUST-TRAIN-0318,Team C,OP-004,Synthetic case for training only
+CBB-SYN-0319,Creekside,Web,Payroll,Enhanced Review,2026-09-02,2026-09-04,2026-09-16,Completed,7,Data entry correction,CUST-TRAIN-0319,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0320,Creekside,Mobile,Current,Standard,2026-09-18,2026-09-22,2026-09-25,Completed,3,Missing document,CUST-TRAIN-0320,Team B,OP-011,Synthetic case for training only
+CBB-SYN-0321,Creekside,Branch,Current,Standard,2026-09-03,2026-09-04,2026-09-09,Completed,3,None,CUST-TRAIN-0321,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0322,Creekside,Mobile,Current,Standard,2026-09-03,2026-09-07,2026-09-07,Completed,3,Missing document,CUST-TRAIN-0322,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0323,Creekside,Branch,Savings,Standard,2026-09-15,2026-09-15,2026-09-16,Completed,3,None,CUST-TRAIN-0323,Team A,OP-012,Synthetic case for training only
+CBB-SYN-0324,Creekside,Web,Payroll,Standard,2026-09-01,2026-09-04,2026-09-09,Completed,3,Missing document,CUST-TRAIN-0324,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0325,Creekside,Relationship Manager,Current,Standard,2026-09-07,2026-09-10,2026-09-14,Completed,3,None,CUST-TRAIN-0325,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0326,Creekside,Mobile,Savings,Standard,2026-09-04,2026-09-04,2026-09-04,Completed,3,None,CUST-TRAIN-0326,Team A,OP-015,Synthetic case for training only
+CBB-SYN-0327,Creekside,Mobile,Current,Standard,2026-09-18,2026-09-18,2026-09-18,Completed,3,None,CUST-TRAIN-0327,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0328,Creekside,Mobile,Payroll,Standard,2026-09-24,2026-09-29,2026-10-02,Completed,3,None,CUST-TRAIN-0328,Team A,OP-013,Synthetic case for training only
+CBB-SYN-0329,Creekside,Web,Current,Standard,2026-09-21,2026-09-22,2026-10-01,Completed,3,Data entry correction,CUST-TRAIN-0329,Team C,OP-014,Synthetic case for training only
+CBB-SYN-0330,Creekside,Mobile,Current,Standard,2026-09-23,2026-09-24,2026-10-02,Completed,3,None,CUST-TRAIN-0330,Team A,OP-010,Synthetic case for training only
+CBB-SYN-0331,Creekside,Mobile,Current,Standard,2026-09-10,2026-09-10,2026-09-11,Completed,3,None,CUST-TRAIN-0331,Team C,OP-009,Synthetic case for training only
+CBB-SYN-0332,Creekside,Web,Current,Standard,2026-09-04,2026-09-04,2026-09-04,Completed,3,Missing document,CUST-TRAIN-0332,Team C,OP-011,Synthetic case for training only
+CBB-SYN-0333,Creekside,Branch,Payroll,Standard,2026-09-23,2026-09-25,2026-09-25,Completed,3,None,CUST-TRAIN-0333,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0334,Creekside,Relationship Manager,Current,Enhanced Review,2026-09-03,2026-09-08,2026-09-09,Completed,7,Missing document,CUST-TRAIN-0334,Team C,OP-009,Synthetic case for training only
+CBB-SYN-0335,Creekside,Mobile,Savings,Enhanced Review,2026-09-09,2026-09-09,2026-09-10,Completed,7,None,CUST-TRAIN-0335,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0336,Creekside,Branch,Payroll,Standard,2026-09-02,2026-09-02,2026-09-02,Completed,3,None,CUST-TRAIN-0336,Team A,OP-003,Synthetic case for training only
+CBB-SYN-0337,Creekside,Web,Savings,Enhanced Review,2026-09-03,2026-09-08,2026-09-14,Completed,7,None,CUST-TRAIN-0337,Team A,OP-008,Synthetic case for training only
+CBB-SYN-0338,Creekside,Relationship Manager,Payroll,Standard,2026-09-14,2026-09-17,2026-09-22,Completed,3,None,CUST-TRAIN-0338,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0339,Creekside,Relationship Manager,Current,Standard,2026-09-10,2026-09-15,2026-09-17,Completed,3,None,CUST-TRAIN-0339,Team A,OP-004,Synthetic case for training only
+CBB-SYN-0340,Creekside,Branch,Payroll,Enhanced Review,2026-09-16,2026-09-16,2026-09-16,Completed,7,None,CUST-TRAIN-0340,Team C,OP-013,Synthetic case for training only
+CBB-SYN-0341,Creekside,Relationship Manager,Savings,Standard,2026-09-22,2026-09-25,2026-10-07,Completed,3,Missing document,CUST-TRAIN-0341,Team B,OP-008,Synthetic case for training only
+CBB-SYN-0342,Creekside,Branch,Current,Standard,2026-09-09,2026-09-10,2026-09-15,Completed,3,None,CUST-TRAIN-0342,Team C,OP-004,Synthetic case for training only
+CBB-SYN-0343,Creekside,Branch,Current,Standard,2026-09-11,2026-09-11,2026-09-15,Completed,3,None,CUST-TRAIN-0343,Team A,OP-020,Synthetic case for training only
+CBB-SYN-0344,Creekside,Relationship Manager,Savings,Enhanced Review,2026-09-21,2026-09-21,2026-09-20,Completed,7,Verification follow-up,CUST-TRAIN-0344,Team C,OP-007,Synthetic case for training only
+CBB-SYN-0345,Creekside,Web,Payroll,Standard,2026-09-21,2026-09-21,2026-09-21,Completed,3,None,CUST-TRAIN-0345,Team C,OP-005,Synthetic case for training only
+CBB-SYN-0346,Creekside,Relationship Manager,Savings,Standard,2026-09-02,2026-09-02,2026-09-03,Completed,3,Missing document,CUST-TRAIN-0346,Team A,OP-002,Synthetic case for training only
+CBB-SYN-0347,Creekside,Branch,Payroll,Standard,2026-09-22,2026-09-25,2026-09-29,Completed,3,None,CUST-TRAIN-0347,Team C,OP-011,Synthetic case for training only
+CBB-SYN-0348,Creekside,Relationship Manager,Savings,Standard,2026-09-18,2026-09-22,2026-09-22,Completed,3,None,CUST-TRAIN-0348,Team B,OP-002,Synthetic case for training only
+CBB-SYN-0349,Creekside,Relationship Manager,Savings,Standard,2026-09-16,2026-09-16,2026-09-18,Completed,3,None,CUST-TRAIN-0349,Team B,OP-011,Synthetic case for training only
+CBB-SYN-0350,Creekside,Relationship Manager,Current,Standard,2026-09-17,2026-09-17,2026-09-17,Completed,3,None,CUST-TRAIN-0350,Team B,OP-007,Synthetic case for training only
+CBB-SYN-0351,Creekside,Relationship Manager,Current,Enhanced Review,2026-09-08,2026-09-10,2026-09-24,Completed,7,Missing document,CUST-TRAIN-0351,Team A,OP-013,Synthetic case for training only
+CBB-SYN-0352,Creekside,Mobile,Savings,Standard,2026-09-15,2026-09-16,2026-09-21,Completed,3,Missing document,CUST-TRAIN-0352,Team A,OP-002,Synthetic case for training only
+CBB-SYN-0353,Creekside,Relationship Manager,Current,Standard,2026-09-21,2026-09-21,2026-09-23,Completed,3,None,CUST-TRAIN-0353,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0354,Creekside,Mobile,Current,Standard,2026-09-10,2026-09-14,2026-09-17,Completed,3,None,CUST-TRAIN-0354,Team B,OP-001,Synthetic case for training only
+CBB-SYN-0355,Creekside,Mobile,Savings,Standard,2026-09-04,2026-09-09,,In Progress,3,None,CUST-TRAIN-0355,Team C,OP-016,Synthetic case for training only
+CBB-SYN-0356,Creekside,Web,Payroll,Standard,2026-09-09,2026-09-11,2026-09-11,Completed,3,Missing document,CUST-TRAIN-0356,Team C,OP-008,Synthetic case for training only
+CBB-SYN-0357,Creekside,Branch,Current,Standard,2026-09-09,2026-09-10,2026-09-10,Completed,3,Missing document,CUST-TRAIN-0357,Team C,OP-011,Synthetic case for training only
+CBB-SYN-0358,Creekside,Relationship Manager,Savings,Standard,2026-09-02,2026-09-02,2026-09-02,Completed,3,Missing document,CUST-TRAIN-0358,Team B,OP-009,Synthetic case for training only
+CBB-SYN-0359,Creekside,Web,Savings,Standard,2026-09-17,2026-09-22,2026-09-29,Completed,3,None,CUST-TRAIN-0359,Team A,OP-010,Synthetic case for training only
+CBB-SYN-0360,Creekside,Mobile,Savings,Standard,2026-09-24,2026-09-29,2026-09-30,Completed,3,None,CUST-TRAIN-0360,Team A,OP-001,Synthetic case for training only
+CBB-SYN-0361,Creekside,Web,Payroll,Standard,2026-09-18,2026-09-21,2026-09-30,Completed,3,Missing document,CUST-TRAIN-0361,Team C,OP-018,Synthetic case for training only
+CBB-SYN-0362,Creekside,Relationship Manager,Payroll,Enhanced Review,2026-09-09,2026-09-14,2026-09-23,Completed,7,Missing document,CUST-TRAIN-0362,Team C,OP-018,Synthetic case for training only
+CBB-SYN-0363,Creekside,Web,Payroll,Standard,2026-09-21,2026-09-22,2026-09-25,Completed,3,None,CUST-TRAIN-0363,Team B,OP-005,Synthetic case for training only
+CBB-SYN-0364,Creekside,Mobile,Current,Standard,2026-09-21,2026-09-21,2026-09-23,Completed,3,None,CUST-TRAIN-0364,Team B,OP-014,Synthetic case for training only
+CBB-SYN-0365,Creekside,Web,Savings,Standard,2026-09-24,2026-09-28,2026-10-01,Completed,3,Missing document,CUST-TRAIN-0365,Team C,OP-012,Synthetic case for training only
+CBB-SYN-0366,Creekside,Relationship Manager,Payroll,Enhanced Review,2026-09-08,2026-09-08,2026-09-11,Completed,7,Missing document,CUST-TRAIN-0366,Team B,OP-002,Synthetic case for training only
+CBB-SYN-0367,Creekside,Web,Current,Standard,2026-09-11,2026-09-14,2026-09-15,Completed,3,Missing document,CUST-TRAIN-0367,Team A,OP-012,Synthetic case for training only
+CBB-SYN-0368,Creekside,Relationship Manager,Savings,Standard,2026-09-04,2026-09-04,2026-09-08,Completed,3,Missing document,CUST-TRAIN-0368,Team B,OP-004,Synthetic case for training only
+CBB-SYN-0369,Creekside,Mobile,Current,Standard,2026-09-23,2026-09-28,2026-10-01,Completed,3,None,CUST-TRAIN-0369,Team C,OP-016,Synthetic case for training only
+CBB-SYN-0370,Creekside,Relationship Manager,Payroll,Standard,2026-09-15,2026-09-18,2026-09-18,Completed,3,None,CUST-TRAIN-0370,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0371,Creekside,Branch,Current,Standard,2026-09-01,2026-09-01,2026-09-10,Completed,3,None,CUST-TRAIN-0371,Team A,OP-010,Synthetic case for training only
+CBB-SYN-0372,Creekside,Branch,Current,Standard,2026-09-18,2026-09-18,2026-09-30,Completed,3,Verification follow-up,CUST-TRAIN-0372,Team C,OP-008,Synthetic case for training only
+CBB-SYN-0373,Creekside,Web,Current,Standard,2026-09-07,2026-09-10,2026-09-22,Completed,3,System queue,CUST-TRAIN-0373,Team B,OP-001,Synthetic case for training only
+CBB-SYN-0374,Creekside,Mobile,Current,Standard,2026-09-03,2026-09-04,2026-09-08,Completed,3,None,CUST-TRAIN-0374,Team B,OP-008,Synthetic case for training only
+CBB-SYN-0375,Creekside,Relationship Manager,Current,Standard,2026-09-02,,2026-09-09,Completed,3,None,CUST-TRAIN-0375,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0376,Creekside,Relationship Manager,Payroll,Standard,2026-09-22,2026-09-25,2026-09-25,Completed,3,None,CUST-TRAIN-0376,Team C,OP-007,Synthetic case for training only
+CBB-SYN-0377,Creekside,Relationship Manager,Payroll,Standard,2026-09-01,2026-09-02,2026-09-11,Completed,3,Missing document,CUST-TRAIN-0377,Team B,OP-015,Synthetic case for training only
+CBB-SYN-0378,Creekside,Web,Current,Standard,2026-09-09,2026-09-10,2026-09-14,Completed,3,Missing document,CUST-TRAIN-0378,Team C,OP-013,Synthetic case for training only
+CBB-SYN-0379,Creekside,Mobile,Savings,Standard,2026-09-18,2026-09-23,2026-09-25,Completed,3,None,CUST-TRAIN-0379,Team A,OP-004,Synthetic case for training only
+CBB-SYN-0380,Creekside,Relationship Manager,Savings,Standard,2026-09-02,2026-09-02,2026-09-11,Completed,3,Verification follow-up,CUST-TRAIN-0380,Team B,OP-008,Synthetic case for training only
+CBB-SYN-0381,Creekside,Web,Payroll,Standard,2026-09-21,2026-09-23,2026-09-29,Completed,3,Verification follow-up,CUST-TRAIN-0381,Team B,OP-014,Synthetic case for training only
+CBB-SYN-0382,Creekside,Branch,Current,Standard,2026-09-24,2026-09-25,2026-09-25,Completed,3,None,CUST-TRAIN-0382,Team A,OP-004,Synthetic case for training only
+CBB-SYN-0383,Creekside,Relationship Manager,Current,Enhanced Review,2026-09-07,2026-09-09,2026-09-17,Completed,7,None,CUST-TRAIN-0383,Team C,OP-018,Synthetic case for training only
+CBB-SYN-0384,Creekside,Relationship Manager,Payroll,Standard,2026-09-09,2026-09-10,2026-09-15,Completed,3,None,CUST-TRAIN-0384,Team B,OP-004,Synthetic case for training only
+CBB-SYN-0385,Creekside,Branch,Current,Enhanced Review,2026-09-21,2026-09-21,2026-09-22,Completed,7,Missing document,CUST-TRAIN-0385,Team C,OP-012,Synthetic case for training only
+CBB-SYN-0386,Creekside,Relationship Manager,Payroll,Standard,2026-09-22,2026-09-24,2026-10-07,Completed,3,Address mismatch,CUST-TRAIN-0386,Team B,OP-018,Synthetic case for training only
+CBB-SYN-0387,Creekside,Web,Current,Enhanced Review,2026-09-01,2026-09-04,2026-09-21,Completed,7,Missing document,CUST-TRAIN-0387,Team A,OP-017,Synthetic case for training only
+CBB-SYN-0388,Creekside,Web,Current,Standard,2026-09-09,2026-09-14,2026-09-17,Completed,3,None,CUST-TRAIN-0388,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0389,Creekside,Mobile,Savings,Enhanced Review,2026-09-23,2026-09-25,,Completed,7,Verification follow-up,CUST-TRAIN-0389,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0390,Creekside,Branch,Current,Standard,2026-09-16,2026-09-16,2026-09-18,Completed,3,None,CUST-TRAIN-0390,Team B,OP-001,Synthetic case for training only
+CBB-SYN-0391,Airport,Mobile,Payroll,Standard,2026-09-04,2026-09-07,2026-09-10,Completed,3,None,CUST-TRAIN-0391,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0392,Airport,Mobile,Savings,Standard,2026-09-07,2026-09-08,2026-09-11,Completed,3,None,CUST-TRAIN-0392,Team B,OP-002,Synthetic case for training only
+CBB-SYN-0393,Airport,Mobile,Payroll,Standard,2026-09-16,2026-09-16,2026-09-21,Completed,3,None,CUST-TRAIN-0393,Team B,OP-002,Synthetic case for training only
+CBB-SYN-0394,Airport,Relationship Manager,Savings,Standard,2026-09-03,2026-09-03,2026-09-09,Completed,3,Verification follow-up,CUST-TRAIN-0394,Team B,OP-015,Synthetic case for training only
+CBB-SYN-0395,Airport,Branch,Current,Enhanced Review,2026-09-08,2026-09-11,2026-09-18,Completed,7,None,CUST-TRAIN-0395,Team A,OP-014,Synthetic case for training only
+CBB-SYN-0396,Airport,Branch,Current,Standard,2026-09-09,2026-09-14,2026-09-21,Completed,3,Missing document,CUST-TRAIN-0396,Team A,OP-010,Synthetic case for training only
+CBB-SYN-0397,Airport,Relationship Manager,Savings,Enhanced Review,2026-09-10,2026-09-14,2026-09-16,Completed,7,None,CUST-TRAIN-0397,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0398,Airport,Mobile,Payroll,Standard,2026-09-01,2026-09-01,2026-09-09,Completed,3,None,CUST-TRAIN-0398,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0399,Airport,Relationship Manager,Savings,Standard,2026-09-02,2026-09-07,2026-09-10,Completed,3,None,CUST-TRAIN-0399,Team B,OP-018,Synthetic case for training only
+CBB-SYN-0400,Airport,Relationship Manager,Payroll,Enhanced Review,2026-09-23,2026-09-23,2026-09-23,Completed,7,None,CUST-TRAIN-0400,Team C,OP-009,Synthetic case for training only
+CBB-SYN-0401,Airport,Web,Current,Standard,2026-09-09,2026-09-09,2026-09-11,Completed,3,None,CUST-TRAIN-0401,Team B,OP-019,Synthetic case for training only
+CBB-SYN-0402,Airport,Relationship Manager,Savings,Standard,2026-09-16,2026-09-16,2026-09-22,Completed,3,None,CUST-TRAIN-0402,Team C,OP-019,Synthetic case for training only
+CBB-SYN-0402,Airport,Branch,Savings,Standard,2026-09-17,2026-09-21,2026-09-24,Completed,3,None,CUST-TRAIN-0403,Team A,OP-011,Synthetic case for training only
+CBB-SYN-0404,Airport,Relationship Manager,Savings,Standard,2026-09-14,2026-09-17,2026-09-18,Completed,3,Missing document,CUST-TRAIN-0404,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0405,Airport,Mobile,Savings,Standard,2026-09-23,2026-09-24,2026-09-28,Completed,3,None,CUST-TRAIN-0405,Team A,OP-002,Synthetic case for training only
+CBB-SYN-0406,Airport,Relationship Manager,Payroll,Standard,2026-09-04,2026-09-08,2026-09-14,Completed,3,None,CUST-TRAIN-0406,Team B,OP-007,Synthetic case for training only
+CBB-SYN-0407,Airport,Relationship Manager,Current,Enhanced Review,2026-09-09,2026-09-09,2026-09-09,Completed,7,Missing document,CUST-TRAIN-0407,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0408,Airport,Web,Savings,Standard,2026-09-02,2026-09-07,2026-09-17,Completed,3,Verification follow-up,CUST-TRAIN-0408,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0409,Airport,Web,Savings,Standard,2026-09-17,2026-09-21,2026-09-23,Completed,3,Missing document,CUST-TRAIN-0409,Team C,OP-004,Synthetic case for training only
+CBB-SYN-0410,Airport,Web,Current,Standard,2026-09-08,2026-09-08,2026-09-08,Completed,3,None,CUST-TRAIN-0410,Team C,OP-016,Synthetic case for training only
+CBB-SYN-0411,Airport,Mobile,Payroll,Standard,2026-09-03,2026-09-03,2026-09-07,Completed,3,None,CUST-TRAIN-0411,Team C,OP-007,Synthetic case for training only
+CBB-SYN-0412,Airport,Mobile,Payroll,Standard,2026-09-21,2026-09-22,2026-09-25,Completed,3,None,CUST-TRAIN-0412,Team A,OP-012,Synthetic case for training only
+CBB-SYN-0413,Airport,Relationship Manager,Savings,Enhanced Review,2026-09-04,2026-09-04,2026-09-17,Completed,7,Verification follow-up,CUST-TRAIN-0413,Team B,OP-011,Synthetic case for training only
+CBB-SYN-0414,Airport,Branch,Payroll,Standard,2026-09-01,2026-09-03,2026-09-04,Completed,3,None,CUST-TRAIN-0414,Team A,OP-018,Synthetic case for training only
+CBB-SYN-0415,Airport,Branch,Payroll,Enhanced Review,2026-09-22,2026-09-22,,In Progress,7,None,CUST-TRAIN-0415,Team C,OP-011,Synthetic case for training only
+CBB-SYN-0416,Airport,Branch,Savings,Enhanced Review,2026-09-10,2026-09-11,2026-09-23,Completed,7,Address mismatch,CUST-TRAIN-0416,Team A,OP-019,Synthetic case for training only
+CBB-SYN-0417,Airport,Relationship Manager,Current,Enhanced Review,2026-09-14,2026-09-15,2026-09-23,Completed,7,Missing document,CUST-TRAIN-0417,Team A,OP-004,Synthetic case for training only
+CBB-SYN-0418,Airport,Web,Payroll,Standard,2026-09-10,2026-09-10,2026-09-11,Completed,3,None,CUST-TRAIN-0418,Team C,OP-020,Synthetic case for training only
+CBB-SYN-0419,Airport,Relationship Manager,Current,Standard,2026-09-10,2026-09-11,2026-09-11,Completed,3,None,CUST-TRAIN-0419,Team B,OP-007,Synthetic case for training only
+CBB-SYN-0420,Airport,Web,Payroll,Enhanced Review,2026-09-02,2026-09-07,2026-09-10,Completed,7,Missing document,CUST-TRAIN-0420,Team A,OP-013,Synthetic case for training only
+CBB-SYN-0421,Airport,Mobile,Current,Standard,2026-09-07,2026-09-08,2026-09-16,Completed,3,Verification follow-up,CUST-TRAIN-0421,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0422,Airport,Web,Payroll,Standard,2026-09-24,2026-09-24,2026-10-07,Completed,3,System queue,CUST-TRAIN-0422,Team A,OP-002,Synthetic case for training only
+CBB-SYN-0423,Airport,Mobile,Current,Standard,2026-09-21,2026-09-21,2026-09-23,Completed,3,Missing document,CUST-TRAIN-0423,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0424,Airport,Web,Savings,Enhanced Review,2026-09-22,2026-09-24,2026-09-30,Completed,7,None,CUST-TRAIN-0424,Team A,OP-002,Synthetic case for training only
+CBB-SYN-0425,Airport,Web,Current,Standard,2026-09-17,2026-09-18,2026-09-22,Completed,3,Missing document,CUST-TRAIN-0425,Team A,OP-004,Synthetic case for training only
+CBB-SYN-0426,Airport,Mobile,Current,Standard,2026-09-11,2026-09-14,2026-09-24,Completed,3,Address mismatch,CUST-TRAIN-0426,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0427,Airport,Web,Savings,Standard,2026-09-02,2026-09-03,2026-09-10,Completed,3,Data entry correction,CUST-TRAIN-0427,Team A,OP-016,Synthetic case for training only
+CBB-SYN-0428,Airport,Mobile,Savings,Standard,2026-09-08,2026-09-09,2026-09-11,Completed,3,None,CUST-TRAIN-0428,Team B,OP-016,Synthetic case for training only
+CBB-SYN-0429,Airport,Relationship Manager,Current,Standard,2026-09-07,2026-09-07,2026-09-09,Completed,3,Missing document,CUST-TRAIN-0429,Team A,OP-007,Synthetic case for training only
+CBB-SYN-0430,Airport,Web,Current,Standard,2026-09-22,2026-09-25,2026-09-28,Completed,3,Missing document,CUST-TRAIN-0430,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0431,Airport,Relationship Manager,Payroll,Standard,2026-09-15,2026-09-18,2026-09-21,Completed,3,None,CUST-TRAIN-0431,Team A,OP-005,Synthetic case for training only
+CBB-SYN-0432,Airport,Mobile,Savings,Standard,2026-09-09,2026-09-09,2026-09-08,Completed,3,None,CUST-TRAIN-0432,Team A,OP-008,Synthetic case for training only
+CBB-SYN-0433,Airport,Mobile,Savings,Standard,2026-09-23,2026-09-24,2026-09-24,Completed,3,None,CUST-TRAIN-0433,Team A,OP-019,Synthetic case for training only
+CBB-SYN-0434,Airport,Web,Savings,Standard,2026-09-18,2026-09-22,2026-09-28,Completed,3,Verification follow-up,CUST-TRAIN-0434,Team C,OP-006,Synthetic case for training only
+CBB-SYN-0435,Airport,Web,Savings,Standard,2026-09-14,2026-09-14,2026-09-15,Completed,3,Missing document,CUST-TRAIN-0435,Team C,OP-008,Synthetic case for training only
+CBB-SYN-0436,Airport,Relationship Manager,Savings,Standard,2026-09-08,2026-09-10,2026-09-11,Completed,3,Missing document,CUST-TRAIN-0436,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0437,Airport,Branch,Savings,Standard,2026-09-11,2026-09-11,2026-09-16,Completed,3,Missing document,CUST-TRAIN-0437,Team B,OP-002,Synthetic case for training only
+CBB-SYN-0438,Airport,Relationship Manager,Current,Standard,2026-09-14,2026-09-15,2026-09-17,Completed,3,None,CUST-TRAIN-0438,Team B,OP-010,Synthetic case for training only
+CBB-SYN-0439,Airport,Web,Current,Standard,2026-09-17,2026-09-17,2026-09-21,Completed,3,None,CUST-TRAIN-0439,Team C,OP-007,Synthetic case for training only
+CBB-SYN-0440,Airport,Mobile,Payroll,Standard,2026-09-22,2026-09-22,2026-09-24,Completed,3,None,CUST-TRAIN-0440,Team C,OP-010,Synthetic case for training only
+CBB-SYN-0441,Airport,Branch,Payroll,Standard,2026-09-15,2026-09-16,2026-09-18,Completed,3,None,CUST-TRAIN-0441,Team B,OP-013,Synthetic case for training only
+CBB-SYN-0442,Airport,Relationship Manager,Savings,Standard,2026-09-18,2026-09-18,2026-09-23,Completed,3,None,CUST-TRAIN-0442,Team A,OP-013,Synthetic case for training only
+CBB-SYN-0443,Airport,Relationship Manager,Savings,Standard,2026-09-15,2026-09-18,2026-09-23,Completed,3,Missing document,CUST-TRAIN-0443,Team B,OP-002,Synthetic case for training only
+CBB-SYN-0444,Airport,Branch,Payroll,Standard,2026-09-21,2026-09-23,2026-09-28,Completed,3,None,CUST-TRAIN-0444,Team A,OP-006,Synthetic case for training only
+CBB-SYN-0445,Airport,Mobile,Savings,Standard,2026-09-02,2026-09-03,2026-09-08,Completed,3,None,CUST-TRAIN-0445,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0446,Airport,Relationship Manager,Current,Standard,2026-09-01,2026-09-03,2026-09-07,Completed,3,None,CUST-TRAIN-0446,Team A,OP-011,Synthetic case for training only
+CBB-SYN-0447,Airport,Relationship Manager,Current,Standard,2026-09-11,2026-09-11,2026-09-11,Completed,3,None,CUST-TRAIN-0447,Team B,OP-010,Synthetic case for training only
+CBB-SYN-0448,Airport,Relationship Manager,Current,Standard,2026-09-17,2026-09-17,2026-09-29,Completed,3,System queue,CUST-TRAIN-0448,Team B,OP-006,Synthetic case for training only
+CBB-SYN-0449,Airport,Branch,Payroll,Standard,2026-09-17,2026-09-22,2026-09-29,Completed,3,Verification follow-up,CUST-TRAIN-0449,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0450,Airport,Branch,Savings,Standard,2026-09-02,2026-09-07,2026-09-09,Completed,3,Missing document,CUST-TRAIN-0450,Team A,OP-020,Synthetic case for training only
+CBB-SYN-0451,Airport,Web,Savings,Standard,2026-09-24,2026-09-28,2026-09-30,Completed,3,None,CUST-TRAIN-0451,Team B,OP-018,Synthetic case for training only
+CBB-SYN-0452,Airport,Branch,Payroll,Standard,2026-09-11,2026-09-11,2026-09-11,Completed,3,None,CUST-TRAIN-0452,Team A,OP-003,Synthetic case for training only
+CBB-SYN-0453,Airport,Branch,Payroll,Standard,2026-09-16,2026-09-17,2026-09-29,Completed,3,None,CUST-TRAIN-0453,Team A,OP-011,Synthetic case for training only
+CBB-SYN-0454,Airport,Relationship Manager,Savings,Standard,2026-09-21,2026-09-23,2026-10-06,Completed,3,Data entry correction,CUST-TRAIN-0454,Team C,OP-004,Synthetic case for training only
+CBB-SYN-0455,Airport,Branch,Payroll,Standard,2026-09-11,2026-09-14,2026-09-16,Completed,3,None,CUST-TRAIN-0455,Team B,OP-008,Synthetic case for training only
+CBB-SYN-0456,Airport,Web,Payroll,Enhanced Review,2026-09-03,2026-09-04,2026-09-08,Completed,7,Missing document,CUST-TRAIN-0456,Team C,OP-006,Synthetic case for training only
+CBB-SYN-0457,Airport,Relationship Manager,Current,Standard,2026-09-23,2026-09-24,2026-10-01,Completed,3,Data entry correction,CUST-TRAIN-0457,Team B,OP-008,Synthetic case for training only
+CBB-SYN-0458,Airport,Branch,Payroll,Standard,2026-09-04,2026-09-04,2026-09-11,Completed,3,Missing document,CUST-TRAIN-0458,Team C,OP-007,Synthetic case for training only
+CBB-SYN-0459,Airport,Web,Savings,Standard,2026-09-08,2026-09-11,2026-09-24,Completed,3,None,CUST-TRAIN-0459,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0460,Airport,Mobile,Savings,Standard,2026-09-16,2026-09-16,2026-09-16,Completed,3,Missing document,CUST-TRAIN-0460,Team C,OP-001,Synthetic case for training only
+CBB-SYN-0461,Airport,Mobile,Payroll,Standard,2026-09-07,2026-09-07,2026-09-14,Completed,3,Missing document,CUST-TRAIN-0461,Team A,OP-005,Synthetic case for training only
+CBB-SYN-0462,Airport,Relationship Manager,Payroll,Standard,2026-09-24,2026-09-25,2026-09-25,Completed,3,Missing document,CUST-TRAIN-0462,Team B,OP-019,Synthetic case for training only
+CBB-SYN-0463,Airport,Mobile,Savings,Standard,2026-09-10,2026-09-11,2026-09-21,Completed,3,Data entry correction,CUST-TRAIN-0463,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0464,Airport,Mobile,Payroll,Standard,2026-09-24,2026-09-29,2026-10-07,Completed,3,None,CUST-TRAIN-0464,Team B,OP-010,Synthetic case for training only
+CBB-SYN-0465,Airport,Branch,Current,Standard,2026-09-07,2026-09-07,2026-09-17,Completed,3,None,CUST-TRAIN-0465,Team B,OP-019,Synthetic case for training only
+CBB-SYN-0466,Airport,Branch,Payroll,Enhanced Review,2026-09-24,2026-09-25,2026-09-28,Completed,7,Missing document,CUST-TRAIN-0466,Team A,OP-004,Synthetic case for training only
+CBB-SYN-0467,Airport,Mobile,Current,Standard,2026-09-03,,2026-09-04,Completed,3,None,CUST-TRAIN-0467,Team B,OP-002,Synthetic case for training only
+CBB-SYN-0468,Airport,Branch,Savings,Enhanced Review,2026-09-07,2026-09-08,2026-09-14,Completed,7,Missing document,CUST-TRAIN-0468,Team B,OP-003,Synthetic case for training only
+CBB-SYN-0469,Airport,Relationship Manager,Savings,Standard,2026-09-11,2026-09-14,2026-09-14,Completed,3,None,CUST-TRAIN-0469,Team B,OP-019,Synthetic case for training only
+CBB-SYN-0470,Airport,Branch,Payroll,Enhanced Review,2026-09-03,2026-09-03,2026-09-10,Completed,7,None,CUST-TRAIN-0470,Team A,OP-001,Synthetic case for training only
+CBB-SYN-0471,Airport,Mobile,Savings,Standard,2026-09-22,2026-09-22,2026-09-24,Completed,3,None,CUST-TRAIN-0471,Team A,OP-017,Synthetic case for training only
+CBB-SYN-0472,Airport,Branch,Payroll,Standard,2026-09-09,2026-09-11,2026-09-11,Completed,3,None,CUST-TRAIN-0472,Team B,OP-012,Synthetic case for training only
+CBB-SYN-0473,Airport,Branch,Current,Standard,2026-09-17,2026-09-17,2026-09-24,Completed,3,Address mismatch,CUST-TRAIN-0473,Team A,OP-019,Synthetic case for training only
+CBB-SYN-0474,Airport,Mobile,Savings,Standard,2026-09-18,2026-09-21,2026-09-21,Completed,3,None,CUST-TRAIN-0474,Team B,OP-008,Synthetic case for training only
+CBB-SYN-0475,Airport,Branch,Current,Standard,2026-09-09,2026-09-10,2026-09-10,Completed,3,None,CUST-TRAIN-0475,Team A,OP-017,Synthetic case for training only
+CBB-SYN-0476,Airport,Relationship Manager,Savings,Standard,2026-09-11,2026-09-15,2026-09-15,Completed,3,None,CUST-TRAIN-0476,Team B,OP-001,Synthetic case for training only
+CBB-SYN-0477,Airport,Mobile,Payroll,Standard,2026-09-02,2026-09-02,,Completed,3,None,CUST-TRAIN-0477,Team B,OP-016,Synthetic case for training only
+CBB-SYN-0478,Airport,Mobile,Savings,Enhanced Review,2026-09-18,2026-09-21,2026-09-30,Completed,7,Missing document,CUST-TRAIN-0478,Team B,OP-010,Synthetic case for training only
+CBB-SYN-0479,Airport,Branch,Payroll,Standard,2026-09-24,2026-09-24,2026-09-25,Completed,3,Missing document,CUST-TRAIN-0479,Team B,OP-017,Synthetic case for training only
+CBB-SYN-0480,Airport,Relationship Manager,Savings,Enhanced Review,2026-09-17,2026-09-18,2026-09-21,Completed,7,Missing document,CUST-TRAIN-0480,Team A,OP-003,Synthetic case for training only

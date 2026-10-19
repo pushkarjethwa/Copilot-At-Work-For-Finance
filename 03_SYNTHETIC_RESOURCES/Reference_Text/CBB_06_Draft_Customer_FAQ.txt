@@ -1,0 +1,27 @@
+SYNTHETIC TRAINING DATA — NOT REAL BANK POLICY
+Retail Customer Onboarding — Draft Frequently Asked Questions
+Status: DRAFT, NOT APPROVED FOR CUSTOMER RELEASE | Owner: Customer Experience Drafting Team
+
+What happens after I submit my application?
+Our branch or digital team will register your request and check the information supplied. Where a file appears complete, an operations reviewer may begin the next stage. A final outcome still depends on the appropriate internal review. This FAQ is a working text awaiting approval and should not yet be issued externally.
+
+How long will it take to open an account?
+Draft response: Every applicant will receive approval within two business days, whether the request is standard or needs enhanced review. This statement reflects an unapproved improvement proposal. It conflicts with the signed policy's different targets and must be reviewed before any customer copy is published.
+
+Can I send a photograph of my identity documents by email?
+Draft response: You may send clear images directly to your relationship officer's ordinary email address, who will forward them internally. The wording is awaiting security review; the approved policy instead requires use of a secure approved collection channel. The drafting team has not received authorisation to recommend a personal inbox.
+
+When does the processing time begin?
+Draft response: The clock begins on the day you first contact the branch, even if more documentation is requested later. This text was adapted from an early workshop suggestion and does not match the signed complete-documentation rule. The policy owner has been asked to confirm the permitted wording for public use.
+
+What if my application is delayed?
+Draft response: If there is any delay, the account will automatically be approved so that the bank meets the promised target. No current policy supports an automatic approval. A reviewed response should acknowledge the delay, direct the customer to an approved support channel and avoid committing to an unverified outcome.
+
+Can the bank tell me which internal risk indicator affected my review?
+The draft suggests that service officers can share a full screening log to reassure applicants. That proposal has not been cleared by the information-security owner and would conflict with the restriction on internal flags and confidential review information.
+
+How can I obtain a status update?
+The customer may contact the authorised support team through the normal service channel and provide only the reference requested by that channel. Staff should check the current approved wording before responding with a target or decision detail. Internal escalations are handled separately from customer communications.
+
+Editorial status and sign-off
+This draft remains open for corrections by operations, information security, compliance and communications. No answer has been approved for publication. The signed policy, not this draft FAQ, is the source for current service targets, document handling and customer commitments.

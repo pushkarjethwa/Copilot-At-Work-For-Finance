@@ -1,0 +1,27 @@
+SYNTHETIC TRAINING DATA — NOT REAL BANK POLICY
+Retail Onboarding Operational KPI Definitions
+Status: Controlled training reporting specification | Owner: Operations Reporting | Version: 1.1
+
+Purpose and reporting period
+This specification describes how Crescent Bay Bank's synthetic onboarding records are used to calculate a completed-case late-processing rate. It allows branches to be compared without treating open applications as finished work. The report covers the source workbook at the time it is extracted and must disclose its population, time rule and exclusions.
+
+Unit of analysis and source fields
+One eligible application ID is one completed case. Required columns include application ID, branch, review type, complete-documentation date, completion date, processing status and the case's applicable SLA. Received date is an operational intake timestamp, not the start of the service clock. The source table may contain repeated IDs or incomplete dates; a report must show how these issues are handled.
+
+Eligible denominator
+Count unique records with status Completed, a recorded complete-documentation date, a recorded completion date, an applicable numeric service target and a completion date that is not earlier than the complete-documentation date. When the same application ID appears multiple times, keep the first instance as the analysis record and classify later occurrences as duplicate exclusions for this controlled teaching dataset. Open and unfinished cases are not included in a completed-case rate.
+
+Elapsed business days
+The processing clock starts on the complete-documentation date, treated as day zero. Count subsequent Monday-to-Friday dates through completion, without additionally excluding public holidays in this synthetic exercise. A same-day completion takes zero business days. Where a completed record has an impossible chronological sequence, exclude it and refer the source record for correction; do not classify it as an on-time completion.
+
+Numerator and measure
+For every eligible completed record, compare elapsed business days with its SLA. Mark it late only where elapsed business days is greater than the allowed target. Sum those late flags for the numerator. The late rate equals late eligible applications divided by all eligible completed applications, multiplied by 100. Show the denominator and numerator alongside any percentage presented to management.
+
+Exclusion categories and audit trail
+Maintain mutually exclusive labels for duplicated application IDs, open cases, missing required dates and invalid chronology. The exclusion order is duplicate first, then status, dates and sequence; this makes the categories reproducible. Do not silently remove records, substitute received date or turn a missing completion into a zero-duration completion.
+
+Branch comparisons and interpretation
+A branch with a larger workload can have the highest number of late cases without having the worst late rate. Display case count and percentage separately. Where sample sizes differ, include eligible counts and avoid using a raw count chart to imply relative performance. Label charts, date assumptions and calculation notes clearly so another analyst can repeat the result.
+
+Sign-off and revision control
+The operations reporting owner approves this definition for the synthetic training analysis. It does not create a customer approval entitlement or replace onboarding policy. Any changes to exclusions, elapsed-day formula or definition of completion must be documented and rechecked against the same source dataset before a revised report is issued.

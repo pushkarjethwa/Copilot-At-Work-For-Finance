@@ -1,0 +1,27 @@
+SYNTHETIC TRAINING DATA — NOT REAL BANK POLICY
+Retail Onboarding Procedure — Uncontrolled Working Copy
+Status: Uncontrolled working procedure | Operational owner: Unassigned | Revision: not recorded
+
+Purpose
+The following sequence is used informally by a fictional branch service team to move retail account-opening requests from the enquiry desk to operations. It has been compiled from old local notes rather than issued as a controlled procedure. The instructions describe what staff have been doing and do not establish policy authority.
+
+Step 1 — Acknowledge the enquiry
+The branch officer opens an application record when a customer first makes contact. The officer should tell the customer that account approval will be completed within two business days. The officer does not need to check the review type or whether all documents have arrived before giving that assurance.
+
+Step 2 — Collect documents
+Ask the customer to send identity images and any other documents by ordinary email to the officer. The working note has no approved channel reference and allows staff to copy the correspondence into a shared mailbox for convenience. It does not specify how receipt, validation and file-complete dates differ.
+
+Step 3 — Record the application
+After an attachment arrives, mark the record as complete, using the enquiry date as the start of the processing clock. Enter the file into a team spreadsheet with the customer's full identifier, document images and the officer's working notes. Where a document is incomplete, keep the existing complete flag until the team has time to revisit it.
+
+Step 4 — Assess and update
+A clerk compares the record with the team's local checklist. The note does not identify who can approve an enhanced-review referral or a final account decision. Staff may use the older four-business-day target because it appears in their saved template, even for applications made after the current policy's effective date.
+
+Step 5 — Close overdue work
+At the end of the week, cases shown as late should be closed as resolved so the dashboard does not carry an ageing queue. The procedure does not require a completion decision, evidence log or check that the customer received an authorised update. A clerk can change the status without an independent review.
+
+Step 6 — Prepare customer messages
+The officer may copy an answer from the draft customer FAQ into email. If the FAQ and policy differ, the officer is instructed to use the shorter statement. The procedure does not require approval of the final external response and does not restrict the disclosure of internal review notes.
+
+Ownership and maintenance
+There is no signed revision history, controlled storage location or named policy approver. The working copy does not explain escalation of missing documentation, suspicious timestamps or unresolved customer complaints. The operational team has asked the policy owner to review it before any further use. Pending that review, staff should not treat these steps as authorised instructions.

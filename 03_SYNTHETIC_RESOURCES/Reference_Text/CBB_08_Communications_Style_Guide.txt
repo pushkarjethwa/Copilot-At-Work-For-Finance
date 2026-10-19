@@ -1,0 +1,12 @@
+SYNTHETIC TRAINING DATA — NOT REAL BANK POLICY
+CBB Communication Style Guide
+Internal synthetic guideline | revision 1.2
+
+Tone
+Clear, helpful, respectful, calm. Avoid internal jargon in external communication.
+
+Customer safety
+Use neutral terminology and approved channels, do not copy sensitive application details and avoid unjustified deadlines.
+
+Internal update
+State observed fact, source, interpretation, recommendation and named next action.

@@ -1,0 +1,20 @@
+﻿Day,Question,Option_A,Option_B,Option_C,Option_D
+Day 1,A prompt says “Summarise this” without any source. What improvement is most useful?,"Supply goal, relevant source, audience and required format",Add more emojis,Run it repeatedly until confident,Remove the context
+Day 1,What does the current synthetic CBB policy specify for a standard eligible case?,Guaranteed approval in 2 calendar days,3 business days from complete documentation,4 calendar days from first inquiry,Any duration the manager requests
+Day 1,A file is marked DRAFT and dated later than an approved policy. Which should guide a customer reply?,Latest dated file regardless of status,Draft if it sounds more modern,The approved effective policy,Both averaged together
+Day 1,What should be done with an unverified customer approval date?,Present it confidently,Phrase it as guaranteed,Invent a conservative date,"State unknown, verify, and route to authorised team"
+Day 1,Why verify AI summaries against source documents?,Models can omit important conditions,All summaries are always wrong,Sources never change,Only to fix spelling
+Day 1,Which is a safe customer response?,Send identity documents by ordinary email,We will waive required reviews,We will check your case through approved channels and update you,Approval is guaranteed tomorrow
+Day 1,What is the best way to compare policy versions?,"Compare approved status, scope, effective dates and changed clauses",Use file size as authority,Use latest alphabetical filename,Ignore superseded policy details
+Day 1,Copilot finds an email action with no definite due date. How should the action register record it?,Today,As unknown/tentative pending confirmation,Delete the action,Invent a week
+Day 1,What is the proper status of an AI-generated customer email during training?,Sent immediately,Publicly posted,Draft pending appropriate human review,An approved policy
+Day 1,OneDrive returns two similarly named policies. What is most reliable?,Open and verify metadata/status,Choose first search result,Choose longer file,Combine both without review
+Day 2,Why use a cleaned unique completed-case denominator?,It always gives lowest percentage,It is the agreed definition and avoids invalid comparisons,It creates more rows,It prevents charts
+Day 2,A branch has the most late cases. Must it have the highest late percentage?,Yes,Only on Mondays,Not necessarily; denominator may differ,Yes when chart is colourful
+Day 2,How do you treat missing completion dates in the CBB completed-case late rate?,Zero days,Ten days,Assume same day,Exclude and disclose
+Day 2,An application completes before required documents are marked complete. What should happen?,Flag/exclude and investigate invalid chronology,Calculate negative lateness as fast service,Report as on time,Ignore source
+Day 2,What is a Teams meeting decision with conditional compliance approval?,Always a fixed launch date,Provisional until approval,Automatically in force,A client promise
+Day 2,What should appear beside a branch late-rate chart?,Colour only,Raw customer identifiers,"Numerator, denominator, method and relevant exclusions",No explanation
+Day 2,What is most important before copying a Copilot chart into PowerPoint?,Make it larger,Add animation,Remove source labels,Check figures and claims against verified workbook
+Day 2,Can an AI-generated recommendation override an approved onboarding policy?,"No, the authorised process governs","Yes, if model is advanced",Only for high-value customers,Yes with 2 reviewers
+Day 2,What is the best handling for a customer-facing email that promises approval and requests ID by email?,Send after grammatical review,"Hold, revise, validate and obtain required approval",Ask Copilot to make it more cheerful,Forward to all staff

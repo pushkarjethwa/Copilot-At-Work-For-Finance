@@ -1,0 +1,24 @@
+SYNTHETIC TRAINING DATA — NOT REAL BANK POLICY
+Onboarding Policy — Working Draft Version 3.0
+Status: DRAFT — NOT APPROVED | Prepared: 18 Sep 2026 | Sponsor: Process Improvement Working Group
+
+Document purpose
+This document collects proposals for possible changes to the fictional bank's retail onboarding policy. It is circulated for review among operations, service and compliance representatives. It has not passed policy approval, has no effective date and must not be implemented or cited as current customer guidance. Approved Version 2.0 remains the controlling document.
+
+Proposed processing target
+The working group proposes a two-business-day target for all retail onboarding applications, including those needing enhanced review. Proponents believe a shorter published target might improve perceived responsiveness. The proposed wording has not been accepted by the operational owners, and no capacity assessment or exception process has been signed off. In particular, the group has not established how more complex reviews could reliably meet this proposed period.
+
+Proposed approach to missing records
+An early draft clause suggests treating certain partially supplied application files as complete to start processing sooner. This proposal is not supported by the approved complete-documentation rule. The operational effects would need to be assessed before a definition is altered. No member of staff should adopt this interpretation while it remains under review.
+
+External communication draft
+A separate draft message suggests telling applicants that approval will be completed within two days. This confuses a possible service objective with a decision guarantee. The statement has not been cleared for customer use. A second draft statement implies that an applicant can email identity images directly to any relationship officer; it lacks an approved secure-channel instruction and requires security review.
+
+Operational risk assessment
+The working group has requested information on processing capacity, exceptions, service recovery and communications controls. It has also asked whether some enhanced-review files require a different service target. Until these questions are resolved, the current standard and enhanced-review targets continue to apply. Staff may discuss the proposal internally only when it is labelled as unapproved.
+
+Decisions still required
+The Head of Retail Operations must confirm whether any revised service target is feasible. Risk and compliance must approve affected verification and external-message language. Records management must approve any changed definition of a complete file, and communications must review customer-facing text. No provisional target should be loaded into live reporting or training material as if it were a signed policy.
+
+Document control
+This is Version 3.0, draft for comment only. It does not replace approved Version 2.0. If approved later, a controlled issue date, owner and effective date must be added; until then, readers should rely on the existing approved policy and refer unresolved statements for human review.

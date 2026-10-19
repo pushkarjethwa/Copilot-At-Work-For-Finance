@@ -1,0 +1,10 @@
+SYNTHETIC TRAINING DATA — NOT REAL BANK POLICY
+Welcome Letter Content Brief
+For a fictional eligible new customer | no personal information
+
+Purpose
+Create a respectful first-touch welcome message, explaining onboarding stages and available support.
+
+Requirements
+Avoid promises about approval, personalised financial advice and unnecessary customer identifiers.
+Make the next step clear: use approved onboarding channels for requested documents.
